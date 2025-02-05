@@ -7,7 +7,7 @@
   "live_url":"https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8",
   "thumbnail":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
   "categorie":"GENERALISTE",
-  "facebook":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"01",
   "youtube":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -19,7 +19,7 @@
   "live_url": "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8",
   "thumbnail": "https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"02",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -43,7 +43,7 @@
   "live_url": "https://stream.berosat.live:19360/gospel-channel/gospel-channel.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"03",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -55,7 +55,7 @@
   "live_url": "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"04",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -67,7 +67,7 @@
   "live_url": "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8",
   "thumbnail": "https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"05",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -79,7 +79,7 @@
   "live_url": "https://stream.berosat.live:19360/mongala-tv/mongala-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzYzMDA1ODBf/mongalatv.jpg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"06",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -91,7 +91,7 @@
   "live_url": "https://stream.berosat.live:19360/beb-tv/beb-tv.m3u8",
   "thumbnail": "https://od.lk/s/NzNfODEyMTA1NTNf/bbeTV.jpg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"07",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -103,7 +103,7 @@
   "live_url": "https://stream.berosat.live:19360/vengeance-tv/vengeance-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzI1MTY4Njlf/Vengeance.jpg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"08",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -115,7 +115,7 @@
   "live_url": "https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+ "number":"09",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -127,7 +127,7 @@
   "live_url": "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"10",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -139,7 +139,7 @@
   "live_url": "https://stream.berosat.live:19360/rtv-cbco/rtv-cbco.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNjg5OTUzNzJf/cbco.jpg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"11",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -151,7 +151,7 @@
   "live_url": "https://stream.berosat.live:19360/luli-plus/luli-plus.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzQ4NzczMDhf/luliplustv.jpg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+ "number":"12",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -163,7 +163,7 @@
   "live_url": "https://stream.berosat.live:19360/kk-tv/kk-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzYzMDYxOTJf/KKTV.jpg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"13",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -175,7 +175,7 @@
   "live_url": "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"14",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -187,7 +187,7 @@
   "live_url": "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+ "number":"15",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -199,7 +199,7 @@
   "live_url": "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"16",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -211,7 +211,7 @@
   "live_url": "https://stream.berosat.live:19360/bero-tv/bero-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzAzMTYxNzZf/berologos.jpg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"17",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -223,7 +223,7 @@
   "live_url": "https://helga.iptv2022.com/sh/EGG_PRO_TV/index.m3u8",
   "thumbnail": "https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"18",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -235,7 +235,7 @@
   "live_url": "https://tnt-television.com/METANOIA-STREAM1/index.m3u8",
   "thumbnail": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+ "number":"19",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -247,7 +247,7 @@
   "live_url": "https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8",
   "thumbnail": "https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+ "number":"20",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -259,7 +259,7 @@
   "live_url": "http://51.254.199.122:8080/bossbrothersTV/index.m3u8",
   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"21",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -271,7 +271,7 @@
   "live_url": "https://helga.iptv2022.com/sh/Aya_TV/tracks-v1a1/mono.m3u8",
   "thumbnail": "https://od.lk/s/NzNfODE5MzMyNDhf/AYATV.jpg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"22",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -283,7 +283,7 @@
   "live_url": "https://glb.bozztv.com/glb/ssh101/hopetvg/playlist.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNjg3NzA3MDdf/hope-channel-tv-cd.png",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"23",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -295,7 +295,7 @@
   "live_url": "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8",
   "thumbnail": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"24",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -307,7 +307,7 @@
   "live_url": "https://stream.berosat.live:19360/nduletv/nduletv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzY0MzYxMzhf/nduletv.jpg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"25",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -319,7 +319,7 @@
   "live_url": "http://livestream.kgsols.com/push/KeurN/playlist.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNjY0MTI4OTZf/keurndanane.jpg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"26",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -331,7 +331,7 @@
   "live_url": "https://ott.livelegitpro.in/pusa/gtv1/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNjM4NzQ4ODRf/gtv1.jpg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"27",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -343,7 +343,7 @@
   "live_url": "http://69.64.57.208/rtnc/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"28",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -355,7 +355,7 @@
   "live_url": "https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/1200.m3u8",
   "thumbnail": "https://od.lk/s/M18yNjg3MDAwMjJf/nova.jpg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"30",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -367,7 +367,7 @@
   "live_url": "https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yOTE2NzM5MzJf/afromagic.jpg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"31",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -379,7 +379,7 @@
   "live_url": "http://69.64.57.208/atv/playlist.m3u8",
   "thumbnail": "https://od.lk/s/NzNfODE1NzU3MThf/AplusIvoire.jpeg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"32",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -391,7 +391,7 @@
   "live_url": "https://stream.it-innov.com:443/ctv/tracks-v1a1/mono.m3u8",
   "thumbnail": "https://od.lk/s/M18yODQ2NjkyNzBf/ctvAfrique.jpeg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"33",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -403,7 +403,7 @@
   "live_url": "https://origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yODYwMDA2Nzhf/bongo.jpg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"34",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
@@ -415,7 +415,7 @@
   "live_url": "http://89.163.146.99/MADI-TV/tracks-v1a1/mono.m3u8",
   "thumbnail": "https://od.lk/s/M18yODY2NzUyNDBf/madi.jpg",
   "categorie": "GENERALISTE",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "number":"35",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
