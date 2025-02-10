@@ -24,8 +24,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "35":{
-  "id": "35",
+   "02":{
+  "id": "02",
   "name": "KEUR NDANANE TV",
   "description": "KEUR NDANANE TV est une chaîne multiculturelle diffusant au Senegal axée sur la diversité des contenus pour répondre aux intérêts variés de notre public. Localisation : Rufisque, à quelques kilomètres de Dakar, la capitale du Sénégal. Nous Contacter sur 1 Rue PAUL Sicamois prolongée juste avant l’école primaire Mbaye NDIR Tel : +221 33 871 61 22 /221772082121/+393515993000 Email : keurndananetv.sn@gmail.com",
   "live_url": "http://livestream.kgsols.com/push/KeurN/playlist.m3u8",
@@ -36,8 +36,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "36":{
-  "id": "36",
+   "03":{
+  "id": "03",
   "name": "DER-TV",
   "description": "DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner.",
   "live_url": "https://stream.berosat.live:19360/der-tv/der-tv.m3u8",
@@ -48,8 +48,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "2":{
-  "id": "2",
+  "35":{
+  "id": "35",
   "name": "BALADE MONDE TV",
   "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo",
   "live_url": "https://stream.berosat.live:19360/balade-monde/balade-monde.m3u8",
@@ -60,8 +60,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "3":{
-  "id": "3",
+   "4":{
+  "id": "4",
   "name": "GOSPEL CHANNEL",
   "description": "Gospel Channel International, la première chaine chrétienne international avec la musique gospel universel. Contactez-nous au fairspcc@gmail.com",
   "live_url": "https://stream.berosat.live:19360/gospel-channel/gospel-channel.m3u8",
@@ -72,8 +72,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "4":{
-  "id": "4",
+   "36":{
+  "id": "36",
   "name": "S-MEDIAS TV 3",
   "description": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo",
   "live_url": "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8",
