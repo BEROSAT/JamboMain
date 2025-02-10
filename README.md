@@ -24,6 +24,18 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
+   "35":{
+  "id": "35",
+  "name": "KEUR NDANANE TV",
+  "description": "KEUR NDANANE TV est une chaîne multiculturelle diffusant au Senegal axée sur la diversité des contenus pour répondre aux intérêts variés de notre public. Localisation : Rufisque, à quelques kilomètres de Dakar, la capitale du Sénégal. Nous Contacter sur 1 Rue PAUL Sicamois prolongée juste avant l’école primaire Mbaye NDIR Tel : +221 33 871 61 22 /221772082121/+393515993000 Email : keurndananetv.sn@gmail.com",
+  "live_url": "http://livestream.kgsols.com/push/KeurN/playlist.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNjY0MTI4OTZf/keurndanane.jpg",
+  "categorie": "GENERALISTE",
+  "number":"35",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
   "2":{
   "id": "2",
   "name": "BALADE MONDE TV",
