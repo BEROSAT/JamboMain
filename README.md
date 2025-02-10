@@ -36,6 +36,18 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
+   "36":{
+  "id": "36",
+  "name": "DER-TV",
+  "description": "DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner.",
+  "live_url": "https://stream.berosat.live:19360/der-tv/der-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzc3NDIyNjVf/dertv.jpg",
+  "categorie": "GENERALISTE",
+  "number":"02",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
   "2":{
   "id": "2",
   "name": "BALADE MONDE TV",
