@@ -192,6 +192,18 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
+  "16":{
+  "id": "16",
+  "name": "ML PRO TV",
+  "description": "ML PRO TV est la chaine numerique qui emette à Kinshasa en diffusant des informations, musique et Sports et autres L'AVENIR DE LA TÉLÉVISION NUMÉRIQUE. ",
+  "live_url": "https://stream.berosat.live:19360/mlpro-tv/mlpro-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzc4NzE0MTNf/MLPRO.jpg",
+  "categorie": "GENERALISTE",
+ "number":"16",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
   "17":{
   "id": "17",
   "name": "BERO TV",
