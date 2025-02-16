@@ -9,9 +9,9 @@
   "categorie":"GENERALISTE",
   "number":"0",
   "facebook": "01",
-  "youtube":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
-  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
-  "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  "youtube":"01",
+  "twitter": "01",
+  "website":"01"
   },
   "1":{
   "id": "1",
@@ -22,9 +22,9 @@
   "categorie": "GENERALISTE",
   "number":"1",
   "facebook": "02",
-  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
-  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
-  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  "youtube": "02",
+  "twitter": "02",
+  "website": "02"
   },
    "2":{
   "id": "2",
