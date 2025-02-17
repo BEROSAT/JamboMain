@@ -67,10 +67,10 @@
   },
    "5":{
   "id": "5",
-  "name": "GOSPEL CHANNEL",
+  "name": "MKV-TV",
   "description": "Gospel Channel International, la première chaine chrétienne international avec la musique gospel universel. Contactez-nous au fairspcc@gmail.com",
-  "live_url": "https://stream.berosat.live:19360/gospel-channel/gospel-channel.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg",
+  "live_url": "https://stream.berosat.live:19360/mkv-tv/mkv-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgwMjgzMzlf/MKVTV.jpg",
   "categorie": "GENERALISTE",
   "number":"06",
    "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
