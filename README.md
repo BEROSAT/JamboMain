@@ -56,7 +56,7 @@
   "id": "4",
   "name": "BALADE MONDE TV",
   "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo",
-  "live_url": "https://stream.berosat.live:19360/balade-monde/balade-monde.m3u8",
+  "live_url": "https://stream.berosat.live:19360/live-tv/live-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg",
   "categorie": "GENERALISTE",
   "number":"5",
