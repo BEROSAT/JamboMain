@@ -170,10 +170,10 @@
   },
    "14":{
   "id": "14",
-  "name": "TOP NOVELAS",
+  "name": "JOS-TV HD",
   "description": "15",
-  "live_url": "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
+  "live_url": "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgxNTA1ODVf/Jostv.jpg",
   "categorie": "GENERALISTE",
   "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
