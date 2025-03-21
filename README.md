@@ -160,7 +160,7 @@
   "id": "13",
   "name": "GLORY CHANNEL TV",
   "description": "14",
-  "live_url": "https://stream.berosat.live:19360/luli-plus/luli-plus.m3u8",
+  "live_url": "https://stream.berosat.live:19360/glory-channel/glory-channel.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzYzODExNDVf/GloryChannel.jpg",
   "categorie": "GENERALISTE",
  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
