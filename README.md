@@ -353,7 +353,7 @@
   "name": "GMC TV",
   "description": "30",
   "live_url": "https://stream.berosat.live:19360/gmc-tv/gmc-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzYzMDYxOTJf/KKTV.jpg",
+  "thumbnail": "https://od.lk/s/NDZfNzg4ODg5MzFf/gmctv.jpg",
   "categorie": "GENERALISTE",
   "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
