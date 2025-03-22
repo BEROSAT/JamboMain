@@ -350,9 +350,9 @@
   },
    "29":{
   "id": "29",
-  "name": "KK TV",
+  "name": "GMC TV",
   "description": "30",
-  "live_url": "https://stream.berosat.live:19360/kk-tv/kk-tv.m3u8",
+  "live_url": "https://stream.berosat.live:19360/gmc-tv/gmc-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzYzMDYxOTJf/KKTV.jpg",
   "categorie": "GENERALISTE",
   "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
