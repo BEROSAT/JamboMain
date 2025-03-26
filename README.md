@@ -278,10 +278,10 @@
   },
    "23":{
   "id": "23",
-  "name": "HOPE CHANNEL TV",
+  "name": "KONGO KIMBANGU TV",
   "description": "24",
-  "live_url": "https://glb.bozztv.com/glb/ssh101/hopetvg/playlist.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNjg3NzA3MDdf/hope-channel-tv-cd.png",
+  "live_url": "https://stream.berosat.live:19360/kongo-kimbangu/kongo-kimbangu.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzkyMjE5MzFf/kongokimbangu.jpg",
   "categorie": "GENERALISTE",
    "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
