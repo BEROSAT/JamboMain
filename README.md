@@ -110,10 +110,10 @@
   },
   "9":{
   "id": "9",
-  "name": "VENGEANCE TV",
+  "name": "ECLAT DE GLOIRE TV",
   "description": "10",
-  "live_url": "https://stream.berosat.live:19360/vengeance-tv/vengeance-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzI1MTY4Njlf/Vengeance.jpg",
+  "live_url": "https://stream.berosat.live:19360/eclat-gloire-stream/eclat-gloire-stream.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzkzNDY5MzZf/EclatdeGloire.jpg",
   "categorie": "GENERALISTE",
   "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
