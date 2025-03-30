@@ -194,10 +194,10 @@
   },
   "16":{
   "id": "16",
-  "name": "ML PRO TV",
+  "name": "REGISTER",
   "description": "17",
-  "live_url": "https://stream.berosat.live:19360/mlpro-tv/mlpro-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzc5MTAzNjBf/MLPRO-TV.jpg",
+  "live_url": "https://stream.berosat.live:19360/register.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzkzNzcyOThf/creer.jpg",
   "categorie": "GENERALISTE",
   "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
