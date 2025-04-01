@@ -194,9 +194,9 @@
   },
   "16":{
   "id": "16",
-  "name": "REGISTER",
+  "name": "TEST 1",
   "description": "17",
-  "live_url": "https://stream.berosat.live:19360/register.m3u8",
+  "live_url": "https://livepush.io/embed/emSMKC8vImsuOJNW",
   "thumbnail": "https://od.lk/s/NDZfNzkzNzcyOThf/creer.jpg",
   "categorie": "GENERALISTE",
   "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
