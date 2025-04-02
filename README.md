@@ -206,10 +206,10 @@
   },
   "17":{
   "id": "17",
-  "name": "BERO TV",
+  "name": "TV LA CAPITALE",
   "description": "18",
-  "live_url": "https://stream.berosat.live:19360/bero-tv/bero-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzAzMTYxNzZf/berologos.jpg",
+  "live_url": "https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg",
   "categorie": "GENERALISTE",
    "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
