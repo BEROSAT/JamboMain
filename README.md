@@ -374,8 +374,16 @@
   },
   "31":{
   "id": "31",
-  "name": "TELE PROVINCE",
+  "name": "NEPHTHALI TV",
   "description": "32",
+  "live_url": "https://stream.berosat.live:19360/nephtali-tv/nephtali-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODExNDI1NTVf/nmntv.jpg",
+  "categorie": "SPORTS"
+  }, 
+  "32":{
+  "id": "32",
+  "name": "TELE PROVINCE",
+  "description": "33",
   "live_url": "https://stream.berosat.live:19360/tele-province/tele-province.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzY4MTkwNTJf/teleprovincewhite.jpg",
   "categorie": "GENERALISTE",
@@ -384,10 +392,10 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "32":{
-  "id": "32",
+  "33":{
+  "id": "33",
   "name": "ESAIE 45 TV",
-  "description": "33",
+  "description": "34",
   "live_url": "https://stream.berosat.live:19360/esaie45-tv/esaie45-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgyMzYzNzJf/esaie45.jpg",
   "categorie": "GENERALISTE",
@@ -396,13 +404,12 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "33":{
-  "id": "33",
+  "34":{
+  "id": "34",
   "name": "MALEBO MOVIES TV",
-  "description": "34",
+  "description": "35",
   "live_url": "https://stream.berosat.live:19360/malebo-movies/malebo-movies.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODExNDE4OTZf/malebotvmovies.jpg",
   "categorie": "SPORTS"
   } 
 }
-
