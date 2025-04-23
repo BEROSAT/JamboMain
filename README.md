@@ -395,6 +395,14 @@
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
-  }
+  },
+  "33":{
+  "id": "33",
+  "name": "MALEBO MOVIES TV",
+  "description": "34",
+  "live_url": "https://stream.berosat.live:19360/malebo-mmovies/malebo-movies.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODExNDE4OTZf/malebotvmovies.jpg",
+  "categorie": "SPORTS"
+  } 
 }
 
