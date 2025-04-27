@@ -411,5 +411,13 @@
   "live_url": "https://stream.berosat.live:19360/malebo-movies/malebo-movies.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODExNDE4OTZf/malebotvmovies.jpg",
   "categorie": "SPORTS"
+  },
+  "35":{
+  "id": "35",
+  "name": "GOSPEL AGENCY TV",
+  "description": "36",
+  "live_url": "https://stream.berosat.live:19360/gospel-agency-stream/gospel-agency-stream.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzY1MTkxNjJf/GospelAgency.jpg",
+  "categorie": "SPORTS"
   } 
 }
