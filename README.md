@@ -419,5 +419,13 @@
   "live_url": "https://stream.berosat.live:19360/gospel-agency-stream/gospel-agency-stream.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzY1MTkxNjJf/GospelAgency.jpg",
   "categorie": "SPORTS"
+  },
+  "36":{
+  "id": "36",
+  "name": "FIDEDI MOVIE TV",
+  "description": "37",
+  "live_url": "https://stream.berosat.live:19360/fidedi-movie-stream/fidedi-movie-stream.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODEyOTYzMDBf/fidediMovie.jpg",
+  "categorie": "SPORTS"
   } 
 }
