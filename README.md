@@ -427,5 +427,13 @@
   "live_url": "https://stream.berosat.live:19360/fidedi-movie-stream/fidedi-movie-stream.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODEyOTYzMDBf/fidediMovie.jpg",
   "categorie": "SPORTS"
-  } 
+  },
+  "37":{
+  "id": "37",
+  "name": "SHAVAX TV",
+  "description": "38",
+  "live_url": "https://stream.berosat.live:19360/shavax-tv/shavax-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODE1NDg4NTlf/shavaxtv.png",
+  "categorie": "SPORTS"
+  }  
 }
