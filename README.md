@@ -435,5 +435,13 @@
   "live_url": "https://stream.berosat.live:19360/shavax-tv/shavax-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODE1NDg4NTlf/shavaxtv.png",
   "categorie": "SPORTS"
+  },
+  "38":{
+  "id": "38",
+  "name": "BILILI TV",
+  "description": "39",
+  "live_url": "https://stream.berosat.live:19360/bilili-tv-hd/bilili-tv-hd.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODE1ODI3NzVf/bilili.jpg",
+  "categorie": "SPORTS"
   }  
 }
