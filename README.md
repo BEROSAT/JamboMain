@@ -132,7 +132,7 @@
   "id": "16",
   "name": "NOUR TV",
   "description": "17",
-  "live_url": "https://stream.berosat.live:19360/nour-tv-index/nour-tv-index.m3u",
+  "live_url": "https://stream.berosat.live:19360/nour-tv-index/nour-tv-index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODE2MTkxNTVf/nourtv.jpg",
   "categorie": "GENERALISTE"
   },
@@ -303,13 +303,5 @@
   "live_url": "https://stream.berosat.live:19360/shavax-tv/shavax-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODE1NDg4NTlf/shavaxtv.png",
   "categorie": "SPORTS"
-  },
-  "38":{
-  "id": "38",
-  "name": "BILILI TV",
-  "description": "39",
-  "live_url": "https://stream.berosat.live:19360/bilili-tv-hd/bilili-tv-hd.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODE1ODI3NzVf/bilili.jpg",
-  "categorie": "SPORTS"
-  }  
+  }
 }
