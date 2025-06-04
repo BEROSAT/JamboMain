@@ -130,10 +130,10 @@
   },
   "16":{
   "id": "16",
-  "name": "NOUR TV",
+  "name": "HORIZON 2000 TV",
   "description": "17",
-  "live_url": "https://stream.berosat.live:19360/nour-tv-index/nour-tv-index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODE2MTkxNTVf/nourtv.jpg",
+  "live_url": "https://stream.berosat.live:19360/tv-horizon-2000hd-index/tv-horizon-2000hd-index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODE5Mzg0MTVf/horizon2000TV.jpg",
   "categorie": "GENERALISTE"
   },
   "17":{
@@ -274,10 +274,10 @@
   },
   "34":{
   "id": "34",
-  "name": "MALEBO MOVIES TV",
+  "name": "CONSOLE 24 TV",
   "description": "35",
-  "live_url": "https://stream.berosat.live:19360/malebo-movies/malebo-movies.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODExNDE4OTZf/malebotvmovies.jpg",
+  "live_url": "https://stream.berosat.live:19360/tv-console24-stream/tv-console24-stream.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODE4ODU2MjZf/console24tv.jpg",
   "categorie": "SPORTS"
   },
   "35":{
@@ -303,5 +303,37 @@
   "live_url": "https://stream.berosat.live:19360/shavax-tv/shavax-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODE1NDg4NTlf/shavaxtv.png",
   "categorie": "SPORTS"
-  }
+  },
+  "38":{
+  "id": "38",
+  "name": "FL-CONGO TV",
+  "description": "39",
+  "live_url": "https://stream.berosat.live:19360/flcongo-tv-index/flcongo-tv-index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODE2NTgzNDlf/flcongo.jpg",
+  "categorie": "SPORTS"
+  },
+ "39":{
+  "id": "39",
+  "name": "COULEURS TV",
+  "description": "40",
+  "live_url": "https://stream.berosat.live:19360/couleur-tv/couleur-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzg4ODg4NTNf/nosignals.jpg",
+  "categorie": "SPORTS"
+  },
+  "40":{
+  "id": "40",
+  "name": "MOTEMA AFRICA TV",
+  "description": "41",
+  "live_url": "https://stream.berosat.live:19360/motema-africa/motema-africa.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODIwMzI0NDhf/motemsAfrica.jpg",
+  "categorie": "SPORTS"
+  },
+  "41":{
+  "id": "41",
+  "name": "BISO TV",
+  "description": "42",
+  "live_url": "http://37.187.138.41:80/BISO/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODE5MTc5ODdf/bisotv.jpg",
+  "categorie": "SPORTS"
+  } 
 }
