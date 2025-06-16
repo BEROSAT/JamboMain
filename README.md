@@ -314,10 +314,10 @@
   },
  "39":{
   "id": "39",
-  "name": "COULEURS TV",
+  "name": "FINESSE MONDE TV",
   "description": "40",
-  "live_url": "https://stream.berosat.live:19360/couleur-tv/couleur-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzg4ODg4NTNf/nosignals.jpg",
+  "live_url": "https://stream.berosat.live:19360/finesse-monde/finesse-monde.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODIyNzI2Mjdf/finesseMondetv.jpg",
   "categorie": "SPORTS"
   },
   "40":{
@@ -334,6 +334,38 @@
   "description": "42",
   "live_url": "http://37.187.138.41:80/BISO/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODE5MTc5ODdf/bisotv.jpg",
+  "categorie": "SPORTS"
+  },
+  "42":{
+  "id": "42",
+  "name": "GOLGOTHA TV",
+  "description": "43",
+  "live_url": "https://stream.berosat.live:19360/golgotha-tv/golgotha-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jpg",
+  "categorie": "SPORTS"
+  },
+  "43":{
+  "id": "43",
+  "name": "CINEAC TV",
+  "description": "44",
+  "live_url": "https://stream.berosat.live:19360/cineac-tv/cineac-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODIyODg2ODVf/cineacTV.jpg",
+  "categorie": "SPORTS"
+  },
+  "44":{
+  "id": "44",
+  "name": "001 TV",
+  "description": "45",
+  "live_url": "https://stream.berosat.live:19360/zero-un-tv/zero-un-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODIzMDYzNTVf/001tv.jpg",
+  "categorie": "SPORTS"
+  },
+  "45":{
+  "id": "45",
+  "name": "DESTINY CHANNEL",
+  "description": "46",
+  "live_url": "https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg",
   "categorie": "SPORTS"
   } 
 }
