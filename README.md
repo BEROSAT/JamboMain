@@ -413,5 +413,23 @@
   "live_url": "https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg",
   "categorie": "SPORTS"
-  } 
+  },
+  "46":{
+  "id": "46",
+  "name": "FAMILLE GENESE TV",
+  "number":"47",
+  "description": "46",
+  "live_url": "https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODI1NzY2MTBf/Famillgenesetv.png",
+  "categorie": "SPORTS"
+  },
+  "46":{
+  "id": "47",
+  "name": "GOLGOTHA TV",
+  "number":"48",
+  "description": "46",
+  "live_url": "https://stream.berosat.live:19360/golgotha-tv/golgotha-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jpg",
+  "categorie": "SPORTS"
+  }
 }
