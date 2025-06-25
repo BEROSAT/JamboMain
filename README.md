@@ -335,11 +335,11 @@
   },
   "37":{
   "id": "37",
-  "name": "SHAVAX TV",
+  "name": "ATP-E-CI TV",
    "number":"38",
   "description": "38",
-  "live_url": "https://stream.berosat.live:19360/shavax-tv/shavax-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODE1NDg4NTlf/shavaxtv.png",
+  "live_url": "https://stream.berosat.live:19360/atpe-tv/atpe-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODI3MTUyNzRf/atpEntertaiment.jpg",
   "categorie": "SPORTS"
   },
   "38":{
