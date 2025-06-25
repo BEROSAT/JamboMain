@@ -74,11 +74,11 @@
   },
   "8":{
   "id": "8",
-  "name": "SV-TV",
+  "name": "COP TELEVISION",
   "number":"09",
-  "description": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa",
-  "live_url": "https://stream.berosat.live:19360/sv-stream-tv/sv-stream-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg",
+  "description": "Cop television est la chaîne generaliste Émettant en Republique Democratique du Congo",
+  "live_url": "https://stream.berosat.live:19360/cop-tv/cop-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODExNTUxMTFf/copTV.jpg",
   "categorie": "GENERALISTE"
   },
   "9":{
