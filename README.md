@@ -283,7 +283,7 @@
   "id": "31",
   "name": "RTE TV HD",
   "number":"32",
-  "description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information"",
+  "description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information",
   "live_url": "https://stream.berosat.live:19360/rte-tv/rte-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODEzNTU0ODFf/rteTV.jpg",
   "categorie": "SPORTS"
