@@ -53,8 +53,8 @@
   "live_url": "https://stream.berosat.live:19360/cobla-tv-stream/cobla-tv-stream.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODEzODc0NDFf/coblatv.jpg",
   "categorie": "GENERALISTE"
-  }
- "6":{
+  },
+  "6":{
   "id": "6",
   "name": "S-MEDIAS TV 3",
   "number":"07",
@@ -94,7 +94,7 @@
   "id": "10",
   "name": "EXPLOITS TV",
   "number":"11",
-  "description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne...",
+  "description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne",
   "live_url": "https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg",
   "categorie": "GENERALISTE"
@@ -112,12 +112,11 @@
   "id": "12",
   "name": "BILILI TV",
   "number":"13",
-  "description": "BILILI TV est une chaîne audiovisuelle congolaise à vocation culturelle et généraliste, diffusée en ligne via son site officiel BILILI TV Congo ainsi que sur les plateformes sociales telles que le Bouquet BERO TV, JAMBO PRO, CONGO FM, YouTube, Facebook, Instagram et autres... Sa mission est de refléter fidèlement les réalités Congolais, de valoriser les talents locaux, de promouvoir la diversité culturelle et de porter haut les aspirations du peuple congolais. À travers une programmation innovante et dynamique, BILILI TV informe, éduque, divertir et rassemble. En tant que médias de proximité, BILILI TV se veut inclusive et ouverte à toutes les voix, en mettant en lumière les langues vernaculaires du Congo aux côtés des langues étrangères. Elle incarne une ambition nationale tournée vers l'unité, le progrès et la valorisation de l'identité congolaise. BILILI TV, le Congo dans son ensemble !!!!!",
+  "description": "BILILI TV est une chaîne audiovisuelle congolaise à vocation culturelle et généraliste, diffusée en ligne via son site officiel BILILI TV Congo ainsi que sur les plateformes sociales telles que le Bouquet BERO TV, JAMBO PRO, CONGO FM, YouTube, Facebook, Instagram et autres. Sa mission est de refléter fidèlement les réalités Congolais, de valoriser les talents locaux, de promouvoir la diversité culturelle et de porter haut les aspirations du peuple congolais. À travers une programmation innovante et dynamique, BILILI TV informe, éduque, divertir et rassemble. En tant que médias de proximité, BILILI TV se veut inclusive et ouverte à toutes les voix, en mettant en lumière les langues vernaculaires du Congo aux côtés des langues étrangères. Elle incarne une ambition nationale tournée vers l'unité, le progrès et la valorisation de l'identité congolaise. BILILI TV, le Congo dans son ensemble",
   "live_url": "https://stream.berosat.live:19360/bilili-tv-hd/bilili-tv-hd.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODE1ODI3NzVf/bilili.jpg",
   "categorie": "GENERALISTE"
-  }
-}
+  },
   "13":{
   "id": "13",
   "name": "GLORY CHANNEL TV",
@@ -257,7 +256,7 @@
   "id": "28",
   "name": "RTNC 1 HD",
   "number":"29",
-  "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
+  "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de Office zaïrois de radiodiffusion et de télévision (OZRT) à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
   "live_url": "http://69.64.57.208/rtnc/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
   "categorie": "GENERALISTE"
@@ -401,7 +400,7 @@
   "id": "44",
   "name": "POURIM-RTV",
   "number":"45",
-  "description": "POURIM RTV — La Voix de l’Émancipation Spirituelle, Pourim RTV est une chaîne de radio-télévision web chrétienne prophétique, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, *Pourim RTV* brise les chaînes de l’ignorance, restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin. Pourim RTV est une voix prophétique pour les temps de la fin.",
+  "description": "POURIM RTV, La Voix de l’Émancipation Spirituelle, Pourim RTV est une chaîne de radio-télévision web chrétienne prophétique, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission ; Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, *Pourim RTV* brise les chaînes de l’ignorance, restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin. Pourim RTV est une voix prophétique pour les temps de la fin.",
   "live_url": "https://stream.berosat.live:19360/pourim-tv/pourim-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODI4MzE5MDBf/pourim.jpg",
   "categorie": "SPORTS"
@@ -419,7 +418,7 @@
   "id": "46",
   "name": "FAMILLE GENESE TV",
   "number":"47",
-  "description": "Famille Genese télévision est une chaîne chrétienne généraliste émettant dans la ville de Kinshasa en RDC. Notre Vision est : DELIVRANCE ET RESTORATION DE FAMILLE, Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l'Evangile  à travers sa differente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s'informer, de se divertir avec des programmes responsables.",
+  "description": "Famille Genese télévision est une chaîne chrétienne généraliste émettant dans la ville de Kinshasa en RDC. Notre Vision est ; DELIVRANCE ET RESTORATION DE FAMILLE, Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l'Evangile  à travers sa differente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s'informer, de se divertir avec des programmes responsables.",
   "live_url": "https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODI1NzY2MTBf/Famillgenesetv.png",
   "categorie": "SPORTS"
@@ -429,15 +428,6 @@
   "name": "GLOBAL LINE TV",
   "number":"48",
   "description": "Global Line television, the generaliste Business channel, Entertainment and Educative from Ghana.",
-  "live_url": "https://stream.berosat.live:19360/global-line-tv/global-line-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODI5Mzc5MzBf/globalLine.jpg",
-  "categorie": "SPORTS"
-  },
-  "48":{
-  "id": "48,
-  "name": "GLOBAL LINE TV",
-  "number":"49",
-  "description": "Entertainment Arena, La vie est un voyage, et voyager nécessite une bonne santé pour profiter pleinement de tous les aspects de la vie. C'est pourquoi ATP Entertainment vous propose, sous le nom d'Entertainment Arena, un programme riche en rires, éducation, divertissement, films, documentaires d'actualité et bien plus encore. Nous y interviewerons vos musiciens, footballeurs, danseurs, acteurs préférés et ceux qui émergent, et bien plus encore.",
   "live_url": "https://stream.berosat.live:19360/global-line-tv/global-line-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODI5Mzc5MzBf/globalLine.jpg",
   "categorie": "SPORTS"
