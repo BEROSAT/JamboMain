@@ -423,7 +423,7 @@
   "thumbnail": "https://od.lk/s/NDZfODI1NzY2MTBf/Famillgenesetv.png",
   "categorie": "SPORTS"
   },
-  "46":{
+  "47":{
   "id": "47",
   "name": "GLOBAL LINE TV",
   "number":"48",
@@ -432,7 +432,7 @@
   "thumbnail": "https://od.lk/s/NDZfODI5Mzc5MzBf/globalLine.jpg",
   "categorie": "SPORTS"
   },
-  "47":{
+  "48":{
   "id": "48,
   "name": "GLOBAL LINE TV",
   "number":"49",
