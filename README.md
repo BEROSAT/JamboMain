@@ -211,7 +211,7 @@
   "id": "23",
   "name": "GOSPEL LIVE HD",
   "number":"24",
-  "description": "24",
+  "description": "Gospel Live HD International, la chaine chrétienne a pour but de faire la promotion des artistes chretiensainsi que la musique gospel universel",
   "live_url": "https://stream.berosat.live:19360/gospel-live-hd/gospel-live-hd.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODE0MzY0MTlf/gospelLiveHD.png",
   "categorie": "GENERALISTE"
@@ -256,7 +256,7 @@
   "id": "28",
   "name": "RTNC 1 HD",
   "number":"29",
-  "description": "29",
+  "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
   "live_url": "http://69.64.57.208/rtnc/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
   "categorie": "GENERALISTE"
@@ -265,7 +265,7 @@
   "id": "29",
   "name": "LE MONDE 24H",
   "number":"30",
-  "description": "30",
+  "description": "Le Monde en 24H, l'autoroute de l'information",
   "live_url": "https://stream.berosat.live:19360/monde24h-tv-index/monde24h-tv-index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg",
   "categorie": "GENERALISTE"
@@ -283,7 +283,7 @@
   "id": "31",
   "name": "RTE TV HD",
   "number":"32",
-  "description": "32",
+  "description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information"",
   "live_url": "https://stream.berosat.live:19360/rte-tv/rte-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODEzNTU0ODFf/rteTV.jpg",
   "categorie": "SPORTS"
@@ -328,7 +328,7 @@
   "id": "36",
   "name": "FIDEDI MOVIE TV",
    "number":"37",
-  "description": "37",
+  "description": "Fidedi Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala",
   "live_url": "https://stream.berosat.live:19360/fidedi-movie-stream/fidedi-movie-stream.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODEyOTYzMDBf/fidediMovie.jpg",
   "categorie": "SPORTS"
@@ -337,7 +337,7 @@
   "id": "37",
   "name": "ATP-E-CI TV",
    "number":"38",
-  "description": "38",
+  "description": "Entertainment Arena, La vie est un voyage, et voyager nécessite une bonne santé pour profiter pleinement de tous les aspects de la vie. C'est pourquoi ATP Entertainment vous propose, sous le nom d'Entertainment Arena, un programme riche en rires, éducation, divertissement, films, documentaires d'actualité et bien plus encore. Nous y interviewerons vos musiciens, footballeurs, danseurs, acteurs préférés et ceux qui émergent, et bien plus encore.",
   "live_url": "https://stream.berosat.live:19360/atpe-tv/atpe-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODI3MTUyNzRf/atpEntertaiment.jpg",
   "categorie": "SPORTS"
@@ -355,7 +355,7 @@
   "id": "39",
   "name": "FINESSE MONDE TV",
   "number":"40",
-  "description": "40",
+  "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo",
   "live_url": "https://stream.berosat.live:19360/finesse-monde/finesse-monde.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODIyNzI2Mjdf/finesseMondetv.jpg",
   "categorie": "SPORTS"
@@ -364,7 +364,7 @@
   "id": "40",
   "name": "MOTEMA AFRICA TV",
   "number":"41",
-  "description": "41",
+  "description": "Motema Africa TV est une chaîne privée émettant à Kinshasa",
   "live_url": "https://stream.berosat.live:19360/motema-africa/motema-africa.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODIwMzI0NDhf/motemsAfrica.jpg",
   "categorie": "SPORTS"
@@ -373,7 +373,7 @@
   "id": "41",
   "name": "BISO TV",
   "number":"42",
-  "description": "42",
+  "description": "BISO TV est la chaine thematique generaliste emettant depuis la RDCongo.",
   "live_url": "http://37.187.138.41:80/BISO/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODE5MTc5ODdf/bisotv.jpg",
   "categorie": "SPORTS"
@@ -382,7 +382,7 @@
   "id": "42",
   "name": "GOLGOTHA TV",
   "number":"43",
-  "description": "43",
+  "description": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.",
   "live_url": "https://stream.berosat.live:19360/golgotha-tv/golgotha-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jpg",
   "categorie": "SPORTS"
@@ -391,25 +391,25 @@
   "id": "43",
   "name": "CINEAC TV",
   "number":"44",
-  "description": "44",
+  "description": "Cineac television est une chaine cinematographique qui diffuse les films ainsi que les series Congolaise et Africaines",
   "live_url": "https://stream.berosat.live:19360/cineac-tv/cineac-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODIyODg2ODVf/cineacTV.jpg",
   "categorie": "SPORTS"
   },
   "44":{
   "id": "44",
-  "name": "001 TV",
+  "name": "POURIM-RTV",
   "number":"45",
-  "description": "45",
-  "live_url": "https://stream.berosat.live:19360/zero-un-tv/zero-un-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODIzMDYzNTVf/001tv.jpg",
+  "description": "POURIM RTV — La Voix de l’Émancipation Spirituelle, Pourim RTV est une chaîne de radio-télévision web chrétienne prophétique, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, *Pourim RTV* brise les chaînes de l’ignorance, restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin. Pourim RTV est une voix prophétique pour les temps de la fin.",
+  "live_url": "https://stream.berosat.live:19360/pourim-tv/pourim-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODI4MzE5MDBf/pourim.jpg",
   "categorie": "SPORTS"
   },
   "45":{
   "id": "45",
   "name": "DESTINY CHANNEL",
   "number":"46",
-  "description": "46",
+  "description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autres",
   "live_url": "https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg",
   "categorie": "SPORTS"
@@ -418,18 +418,27 @@
   "id": "46",
   "name": "FAMILLE GENESE TV",
   "number":"47",
-  "description": "46",
+  "description": "Famille Genese télévision est une chaîne chrétienne généraliste émettant dans la ville de Kinshasa en RDC. Notre Vision est : DELIVRANCE ET RESTORATION DE FAMILLE, Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l'Evangile  à travers sa differente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s'informer, de se divertir avec des programmes responsables.",
   "live_url": "https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODI1NzY2MTBf/Famillgenesetv.png",
   "categorie": "SPORTS"
   },
   "46":{
   "id": "47",
-  "name": "GOLGOTHA TV",
+  "name": "GLOBAL LINE TV",
   "number":"48",
-  "description": "46",
-  "live_url": "https://stream.berosat.live:19360/golgotha-tv/golgotha-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jpg",
+  "description": "Global Line television, the generaliste Business channel, Entertainment and Educative from Ghana.",
+  "live_url": "https://stream.berosat.live:19360/global-line-tv/global-line-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODI5Mzc5MzBf/globalLine.jpg",
+  "categorie": "SPORTS"
+  },
+  "47":{
+  "id": "48,
+  "name": "GLOBAL LINE TV",
+  "number":"49",
+  "description": "Entertainment Arena, La vie est un voyage, et voyager nécessite une bonne santé pour profiter pleinement de tous les aspects de la vie. C'est pourquoi ATP Entertainment vous propose, sous le nom d'Entertainment Arena, un programme riche en rires, éducation, divertissement, films, documentaires d'actualité et bien plus encore. Nous y interviewerons vos musiciens, footballeurs, danseurs, acteurs préférés et ceux qui émergent, et bien plus encore.",
+  "live_url": "https://stream.berosat.live:19360/global-line-tv/global-line-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODI5Mzc5MzBf/globalLine.jpg",
   "categorie": "SPORTS"
   }
 }
