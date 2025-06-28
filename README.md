@@ -54,23 +54,7 @@
   "thumbnail": "https://od.lk/s/NDZfODEzODc0NDFf/coblatv.jpg",
   "categorie": "GENERALISTE"
   }
-} 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  "6":{
+ "6":{
   "id": "6",
   "name": "S-MEDIAS TV 3",
   "number":"07",
@@ -132,7 +116,8 @@
   "live_url": "https://stream.berosat.live:19360/bilili-tv-hd/bilili-tv-hd.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODE1ODI3NzVf/bilili.jpg",
   "categorie": "GENERALISTE"
-  },
+  }
+}
   "13":{
   "id": "13",
   "name": "GLORY CHANNEL TV",
