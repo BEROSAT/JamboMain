@@ -419,7 +419,7 @@
   "name": "FAMILLE GENESE TV",
   "number":"47",
   "description": "Famille Genese télévision est une chaîne chrétienne généraliste émettant dans la ville de Kinshasa en RDC. Notre Vision est ; DELIVRANCE ET RESTORATION DE FAMILLE, Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l'Evangile  à travers sa differente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s'informer, de se divertir avec des programmes responsables.",
-  "live_url": "https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8",
+  "live_url": "https://stream.berosat.live:19360/famille-genese/famille-genese.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODI1NzY2MTBf/Famillgenesetv.png",
   "categorie": "SPORTS"
   },
@@ -430,6 +430,33 @@
   "description": "Global Line television, the generaliste Business channel, Entertainment and Educative from Ghana.",
   "live_url": "https://stream.berosat.live:19360/global-line-tv/global-line-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODI5Mzc5MzBf/globalLine.jpg",
+  "categorie": "SPORTS"
+  },
+  "48":{
+  "id": "48",
+  "name": "CS-TV",
+  "number":"49",
+  "description": "Congo Santé télévision , une chaîne d'Excellence pour la santé en Republique Democratique du Congo",
+  "live_url": "https://stream.berosat.live:19360/cstv-index/cstv-index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODM0ODYxMDhf/cstv.jpg",
+  "categorie": "SPORTS"
+  },
+  "49":{
+  "id": "49",
+  "name": "MC PRO TV",
+  "number":"50",
+  "description": "Mvuluzi Cinema Professionnel télévision , une chaîne d'Entertaiment pour promouvoir le cinema Congolais",
+  "live_url": "https://stream.berosat.live:19360/mvc-pro/mvc-pro.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODM0ODYxMjhf/mvcprotv.jpg",
+  "categorie": "SPORTS"
+  },
+  "50":{
+  "id": "50",
+  "name": "MK NGOMA TV",
+  "number":"51",
+  "description": "MK Ngoma television est une chaîne de radio-télévision web chrétienne prophétique, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, la chaînes restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin",
+  "live_url": "https://stream.berosat.live:19360/mk-ngoma-tv/mk-ngoma-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODMzNzE4MjNf/mkNgomatv.jpg",
   "categorie": "SPORTS"
   }
 }
