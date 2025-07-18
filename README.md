@@ -458,5 +458,23 @@
   "live_url": "https://stream.berosat.live:19360/mk-ngoma-tv/mk-ngoma-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODMzNzE4MjNf/mkNgomatv.jpg",
   "categorie": "SPORTS"
+  },
+  "51":{
+  "id": "51",
+  "name": "3K DH TÉLÉVISION",
+  "number":"52",
+  "description": "3K DH TÉLÉVISION, une chaine culturelle 100% swahiliphone",
+  "live_url": "https://stream.berosat.live:19360/3khd-index/3khd-index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODMzNzE4MjNf/mkNgomatv.jpg",
+  "categorie": "SPORTS"
+  },
+  "52":{
+  "id": "52",
+  "name": "TEMPLE DE LA FOI",
+  "number":"53",
+  "description": "Temple de la Foi télévision, ta foi, ta chaine, to reveil. Nous sommes une chaine chretienn pour le salut des Ames,",
+  "live_url": "https://stream.berosat.live:19360/temple-tv/temple-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODM1Nzc2NDZf/templedelafpo.jpg",
+  "categorie": "SPORTS"
   }
 }
