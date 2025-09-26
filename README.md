@@ -2,32 +2,32 @@
 {
   "0":{
   "id":"0",
-  "name":"LE MONDE EN 24H",
+  "name":"RL PRO TV",
   "number":"01",
+  "description":"RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM",
+  "live_url":"https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8",
+  "thumbnail":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
+  "categorie":"GENERALISTE"
+  },
+  "1":{
+  "id":"1",
+  "name":"LE MONDE EN 24H",
+  "number":"02",
   "description":"Le Monde en 24H, l'autoroute de l'information ",
   "live_url":"https://stream.berosat.live:19360/monde24h-tv-index/monde24h-tv-index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg",
   "categorie":"GENERALISTE"
   },
-  "1":{
-  "id": "1",
+  "2":{
+  "id": "2",
   "name": "DJEMBE TV",
-  "number":"02",
+  "number":"03",
   "description": "Djembe television est la chaîne generaliste Émettant en Republique Democratique du Congo.",
   "live_url": "https://stream.berosat.live:19360/djembe-tv/djembe-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODUyMzk3OThf/djembe.jpg",
   "categorie": "GENERALISTE"
   },
-   "2":{
-  "id": "2",
-  "name": "KEUR NDANANE TV",
-  "number":"03",
-  "description": "KEUR NDANANE TV est une chaîne multiculturelle diffusant au Senegal axée sur la diversité des contenus pour répondre aux intérêts variés de notre public. Localisation : Rufisque, à quelques kilomètres de Dakar, la capitale du Sénégal. Nous Contacter sur 1 Rue PAUL Sicamois prolongée juste avant l’école primaire Mbaye NDIR Tel : +221 33 871 61 22 /221772082121/+393515993000 Email : keurndananetv.sn@gmail.com",
-  "live_url": "http://livestream.kgsols.com/push/KeurN/playlist.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNjY0MTI4OTZf/keurndanane.jpg",
-  "categorie": "GENERALISTE"
-  },
-   "3":{
+  "3":{
   "id": "3",
   "name": "3K HD TÉLÉVISION",
   "number":"04",
@@ -162,6 +162,8 @@
   "thumbnail": "https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
   "categorie": "GENERALISTE"
   },
+
+  
   "18":{
   "id": "18",
   "name": "ONE WAY TV",
