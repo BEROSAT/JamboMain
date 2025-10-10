@@ -610,7 +610,7 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
   "id": "67",
   "name": "W9 TV",
   "number":"68",
-  "description": "W9 télévision , une chaîne generaliste",
+  "description": "W9 télévision est une chaîne generaliste",
   "live_url": "http://145.239.5.177/331/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg",
   "categorie": "SPORTS"
@@ -619,7 +619,7 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
   "id": "68",
   "name": "TV BREIZHG",
   "number":"69",
-  "description": Breizhg télévision , une chaîne generaliste",
+  "description": "Breizhg télévision est une chaîne generaliste",
   "live_url": "http://145.239.5.177/318/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg",
   "categorie": "SPORTS"
@@ -628,7 +628,7 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
   "id": "69",
   "name": "CARAC 1",
   "number":"70",
-  "description": "Carac 1 télévision , une chaîne generaliste",
+  "description": "Carac 1 télévision est une chaîne generaliste",
   "live_url": "http://145.239.5.177/371/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg",
   "categorie": "SPORTS"
@@ -637,16 +637,16 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
   "id": "70",
   "name": "C-STAR TV",
   "number":"71",
-  "description": "C-STAR télévision , une chaîne generaliste",
+  "description": "C-STAR télévision est une chaîne generaliste",
   "live_url": "http://145.239.5.177/361/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg",
   "categorie": "SPORTS"
   },
   "71":{
   "id": "71",
-  "name": "B.E.T TV",
+  "name": "BET TV",
   "number":"72",
-  "description": "BET télévision , une chaîne generaliste",
+  "description": "BET télévision est une chaîne generaliste",
   "live_url": "http://145.239.5.177/359/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg",
   "categorie": "SPORTS"
@@ -655,7 +655,7 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
   "id": "72",
   "name": "ARTE TV",
   "number":"73",
-  "description": "Arte télévision , une chaîne generaliste",
+  "description": "Arte télévision est une chaîne generaliste",
   "live_url": "http://145.239.5.177/300/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg",
   "categorie": "SPORTS"
@@ -664,7 +664,7 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
   "id": "73",
   "name": "LA UNE TV",
   "number":"74",
-  "description": "La Une télévision , une chaîne generaliste",
+  "description": "La Une télévision est une chaîne generaliste",
   "live_url": "http://145.239.5.177/320/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg",
   "categorie": "SPORTS"
@@ -673,7 +673,7 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
   "id": "74",
   "name": "LA TROIS TV",
   "number":"75",
-  "description": "La Une télévision , une chaîne generaliste",
+  "description": "La Une télévision est une chaîne generaliste",
   "live_url": "http://145.239.5.177/330/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg",
   "categorie": "SPORTS"
@@ -682,7 +682,7 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
   "id": "75",
   "name": "6TER TV",
   "number":"76",
-  "description": "6TER télévision , une chaîne generaliste",
+  "description": "6TER télévision est une chaîne generaliste",
   "live_url": "http://145.239.5.177/314/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg",
   "categorie": "SPORTS"
@@ -691,7 +691,7 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
   "id": "76",
   "name": "RTL9 TV",
   "number":"77",
-  "description": "RTL9 télévision , une chaîne generaliste",
+  "description": "RTL9 télévision est une chaîne generaliste",
   "live_url": "http://145.239.5.177/308/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg",
   "categorie": "SPORTS"
