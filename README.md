@@ -607,9 +607,99 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
   "categorie": "SPORTS"
   },
   "67":{
-  "id":"67",
+  "id": "67",
+  "name": "W9 TV",
+  "number":"68",
+  "description": "W9 télévision , une chaîne generaliste",
+  "live_url": "http://145.239.5.177/331/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg",
+  "categorie": "SPORTS"
+  },
+  "68":{
+  "id": "68",
+  "name": "TV BREIZHG",
+  "number":"69",
+  "description": Breizhg télévision , une chaîne generaliste",
+  "live_url": "http://145.239.5.177/318/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg",
+  "categorie": "SPORTS"
+  },
+  "69":{
+  "id": "69",
+  "name": "CARAC 1",
+  "number":"70",
+  "description": "Carac 1 télévision , une chaîne generaliste",
+  "live_url": "http://145.239.5.177/371/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg",
+  "categorie": "SPORTS"
+  },
+  "70":{
+  "id": "70",
+  "name": "C-STAR TV",
+  "number":"71",
+  "description": "C-STAR télévision , une chaîne generaliste",
+  "live_url": "http://145.239.5.177/361/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg",
+  "categorie": "SPORTS"
+  },
+  "71":{
+  "id": "71",
+  "name": "B.E.T TV",
+  "number":"72",
+  "description": "BET télévision , une chaîne generaliste",
+  "live_url": "http://145.239.5.177/359/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg",
+  "categorie": "SPORTS"
+  },
+  "72":{
+  "id": "72",
+  "name": "ARTE TV",
+  "number":"73",
+  "description": "Arte télévision , une chaîne generaliste",
+  "live_url": "http://145.239.5.177/300/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg",
+  "categorie": "SPORTS"
+  },
+  "73":{
+  "id": "73",
+  "name": "LA UNE TV",
+  "number":"74",
+  "description": "La Une télévision , une chaîne generaliste",
+  "live_url": "http://145.239.5.177/320/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg",
+  "categorie": "SPORTS"
+  },
+  "74":{
+  "id": "74",
+  "name": "LA TROIS TV",
+  "number":"75",
+  "description": "La Une télévision , une chaîne generaliste",
+  "live_url": "http://145.239.5.177/330/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg",
+  "categorie": "SPORTS"
+  },
+  "75":{
+  "id": "75",
+  "name": "6TER TV",
+  "number":"76",
+  "description": "6TER télévision , une chaîne generaliste",
+  "live_url": "http://145.239.5.177/314/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg",
+  "categorie": "SPORTS"
+  },
+  "76":{
+  "id": "76",
+  "name": "RTL9 TV",
+  "number":"77",
+  "description": "RTL9 télévision , une chaîne generaliste",
+  "live_url": "http://145.239.5.177/308/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg",
+  "categorie": "SPORTS"
+  },
+  "77":{
+  "id":"77",
   "name":"RL PRO TV",
-  "number":"67",
+  "number":"78",
   "description":"RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM",
   "live_url":"https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8",
   "thumbnail":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
