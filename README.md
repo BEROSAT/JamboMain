@@ -119,9 +119,9 @@
   },
   "13":{
   "id": "13",
-  "name": "COMING SOON",
+  "name": "RAPH TELEVISION",
   "number":"14",
-  "description": "Coming Soon",
+  "description": "Raph television",
   "live_url": "https://tv.berosat.live:19360/raph-tv/raph-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzg4ODg4NDhf/BERO1.jpg",
   "categorie": "GENERALISTE"
@@ -155,9 +155,9 @@
   },
   "17":{
   "id": "17",
-  "name": "COMING SOON 2",
+  "name": "GAULOIS TV",
   "number":"18",
-  "description": "Coming Soon ",
+  "description": "Gaulois television",
   "live_url": "https://tv.berosat.live:19360/gaulois-tv/gaulois-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzg4ODg4NDhf/BERO1.jpg",
   "categorie": "GENERALISTE"
