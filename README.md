@@ -119,13 +119,13 @@
   },
   "13":{
   "id": "13",
-  "name": "HORIZON 2000 TV",
+  "name": "RLPRO HD TV",
   "number":"14",
-  "description": "Horizon 2000 HD Television est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
-  "live_url": "https://stream.berosat.live:19360/tv-horizon-2000hd-index/tv-horizon-2000hd-index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODE5Mzg0MTVf/horizon2000TV.jpg",
+  "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM",
+  "live_url": "https://tv.berosat.live:19360/rlpro-index/rlpro-index.m3u8",
+  "thumbnail": "https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
   "categorie": "GENERALISTE"
-  },
+  },  
   "14":{
   "id": "14",
   "name": "KIN DIRECT TV",
