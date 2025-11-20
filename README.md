@@ -92,11 +92,11 @@
   },
   "10":{
   "id": "10",
-  "name": "FM TV",
+  "name": "RLPRO HD TV",
   "number":"11",
-  "description": "La Fondation Maluwa Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo",
-  "live_url": "https://stream.berosat.live:19360/fm-tv/fm-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODU4ODMyMjBf/fmtv.jpg",
+  "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM",
+  "live_url":"https://tv.berosat.live:19360/rlpro-index/rlpro-index.m3u8",
+  "thumbnail": "https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
   "categorie": "GENERALISTE"
   },
   "11":{
@@ -119,11 +119,11 @@
   },
   "13":{
   "id": "13",
-  "name": "RLPRO HD TV",
+  "name": "COMING SOON",
   "number":"14",
-  "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM",
-  "live_url": "https://tv.berosat.live:19360/rlpro-index/rlpro-index.m3u8",
-  "thumbnail": "https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
+  "description": "Coming Soon",
+  "live_url": "https://tv.berosat.live:19360/raph-tv/raph-tv.m3u8",
+  "thumbnail": ""https://od.lk/s/NDZfNzg4ODg4NDhf/BERO1.jpg",
   "categorie": "GENERALISTE"
   },  
   "14":{
@@ -155,11 +155,11 @@
   },
   "17":{
   "id": "17",
-  "name": "COMING SOON",
+  "name": "COMING SOON 2",
   "number":"18",
   "description": "Coming Soon ",
-  "live_url": "https://stream.berosat.live:19360/rlpro4-tv/rlpro-tv3.m3u8",
-  "thumbnail": "https://od.lk/s/M18yNjczMTIzNThfg/rlprotvf",
+  "live_url": "https://tv.berosat.live:19360/raph-tv/raph-tv.m3u8",
+  "thumbnail": ""https://od.lk/s/NDZfNzg4ODg4NDhf/BERO1.jpg",
   "categorie": "GENERALISTE"
   },
   "18":{
