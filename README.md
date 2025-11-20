@@ -158,7 +158,7 @@
   "name": "COMING SOON 2",
   "number":"18",
   "description": "Coming Soon ",
-  "live_url": "https://tv.berosat.live:19360/raph-tv/raph-tv.m3u8",
+  "live_url": "https://tv.berosat.live:19360/gaulois-tv/gaulois-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzg4ODg4NDhf/BERO1.jpg",
   "categorie": "GENERALISTE"
   },
