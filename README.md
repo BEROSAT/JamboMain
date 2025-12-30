@@ -56,11 +56,11 @@
   },
   "6":{
   "id": "6",
-  "name": "DIESKOLUS TV",
+  "name": "TOSEKA TV",
   "number":"07",
-  "description": "Dieskolus tv la chaine culturelle panafricaniste émettant depuis la ville province de Kinshasa en République Démocratique du Congo",
-  "live_url": "https://stream.berosat.live:19360/dieskolus-tv/dieskolus-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODQ2MDA1NjBf/dieskolustv.jpg",
+  "description": "To Seka télévision est une chaîne 100% culturelle émettant depuis la ville province de Kinshasa en République Démocratique du Congo",
+  "live_url": "https://stream.berosat.live:19360/toseka-tv/toseka-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODkzMzAyNDFf/toseka.jpg",
   "categorie": "GENERALISTE"
   },
   "7":{
