@@ -20,11 +20,11 @@
   },
   "2":{
   "id": "2",
-  "name": "DJEMBE TV",
+  "name": "MAGECO PRO TV",
   "number":"03",
-  "description": "Djembe television est la chaîne generaliste Émettant en Republique Democratique du Congo.",
-  "live_url": "https://stream.berosat.live:19360/djembe-tv/djembe-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODUyMzk3OThf/djembe.jpg",
+  "description": "MAGECO PRO TV, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+  "live_url": "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@MAGECO_PRO_TV.m3u8",
+  "thumbnail": "https://od.lk/s/NzZfMTIyMTk4MDAxXw/mageco.jpg",
   "categorie": "GENERALISTE"
   },
   "3":{
@@ -92,11 +92,11 @@
   },
   "10":{
   "id": "10",
-  "name": "RLPRO HD TV",
+  "name": "ADM TV",
   "number":"11",
-  "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM",
-  "live_url":"https://tv.berosat.live:19360/rlpro-index/rlpro-index.m3u8",
-  "thumbnail": "https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
+  "description": "ADM, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+  "live_url":"https://stream.berosat.live:19360/adm-tv/adm-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NzZfMTIyMTk3OTM4Xw/adm.jpg",
   "categorie": "GENERALISTE"
   },
   "11":{
@@ -119,11 +119,11 @@
   },
   "13":{
   "id": "13",
-  "name": "RAPH TELEVISION",
+  "name": "CH TV HD",
   "number":"14",
-  "description": "Raph television",
-  "live_url": "https://tv.berosat.live:19360/bero-tv/bero-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzg4ODg4NDhf/BERO1.jpg",
+  "description": "Communaute Hospitaliere Télévision HD est une chaîne generaliste Informations et divrtissement Émettant en Republique Democratique du Congo.",
+  "live_url": "https://stream.berosat.live:19360/chtv-hd/chtv-hd.m3u8",
+  "thumbnail": "https://od.lk/s/NzZfMTIyMTk4MDY0Xw/chtv.jpg",
   "categorie": "GENERALISTE"
   },  
   "14":{
@@ -155,20 +155,20 @@
   },
   "17":{
   "id": "17",
-  "name": "GAULOIS TV",
+  "name": "VITESSE TV",
   "number":"18",
-  "description": "Gaulois television",
-  "live_url": "https://tv.berosat.live:19360/gaulois-tv/gaulois-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzg4ODg4NDhf/BERO1.jpg",
+  "description": "Vitesse TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
+  "live_url": "https://stream.berosat.live:19360/vitesse-tv/vitesse-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NzZfMTIyMTk3OTQ5Xw/vitesse.jpg",
   "categorie": "GENERALISTE"
   },
   "18":{
   "id": "18",
-  "name": "ONE WAY TV",
+  "name": "JERUBAAL TV",
   "number":"19",
-  "description": "One Way television, une Voie  Unique vers l’Avenir Durable.  Nous émettenons depuis Kinshasa en Republique Democratique du Congo",
-  "live_url": "https://stream.berosat.live:19360/one-way/one-way.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODU4ODg1NjJf/Onewtv.jpg",
+  "description": "JERUBAAL TV, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation...",
+  "live_url": "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@JERUBAAL_TV.m3u8",
+  "thumbnail": "https://od.lk/s/NzZfMTIyMTk4MDAwXw/jerubaal.jpg",
   "categorie": "GENERALISTE"
   },
   "19":{
@@ -191,11 +191,11 @@
   },
    "21":{
   "id": "21",
-  "name": "CBC TV",
+  "name": "NSIA TV",
   "number":"22",
-  "description": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
-  "live_url": "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg",
+  "description": "NSIA TV, votre fenêtre sur le monde de l'assurance et de la banque, offre une programmation diversifiée qui allie information et divertissement. Plongez dans des émissions éducatives simplifiant pour vous les rouages complexes de l'assurance, de la Finance et des services bancaires. NSIA TV propose également une variété de programmes divertissants pour tous les membres de la famille. Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUE",
+  "live_url": "https://video1.getstreamhosting.com:1936/daqegamrnd/daqegamrnd/playlist.m3u8",
+  "thumbnail": "https://od.lk/s/NzZfMTIyMTk4MDAyXw/nsiatv.jpg",
   "categorie": "GENERALISTE"
   },
   "22":{
@@ -263,11 +263,11 @@
   },
   "29":{
   "id": "29",
-  "name": "TOP MODEL TV",
+  "name": "RT AFRIKA TELEMA",
   "number":"30",
-  "description": "Top Model G.M Télévision est une chaîne generaliste Culturelle Émettant en Republique Democratique du Congo.",
-  "live_url": "https://stream.berosat.live:19360/top-model/top-model.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODU1MTgzMDJf/topModel.jpg",
+  "description": "RT Afrika Telema TV est une chaîne généraliste",
+  "live_url": "https://stream.berosat.live:19360/afrika-index/afrika-index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODc2NjAwNTNf/afrikatelema.jpg",
   "categorie": "GENERALISTE"
   },
   "30":{
@@ -290,20 +290,20 @@
   }, 
   "32":{
   "id": "32",
-  "name": "ROI THE BEST",
+  "name": "BM TV",
   "number":"33",
-  "description": "Roi the Best television est la chaîne generaliste Émettant en Republique Democratique du Congo",
-  "live_url": "https://stream.berosat.live:19360/best-tv/best-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODQxMTAwODdf/besttv.jpg",
+  "description": "BM télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation. Nous Emettons depuis Kinshasa, en Republique Democratique du Congo...",
+  "live_url": "https://stream.berosat.live:19360/bmtv/bmtv.m3u8",
+  "thumbnail": "https://od.lk/s/NzZfMTIyMTk3OTQwXw/bmtv.jpg",
   "categorie": "GENERALISTE"
   },
   "33":{
   "id": "33",
-  "name": "ONMCI TV",
+  "name": "FURAH TV",
   "number":"34",
-  "description": "ONMCI TV est la chaîne officielle de l’Ordre National des Médecins de Côte d’Ivoire (ONMCI), entièrement dédiée à la santé et au bien-être des populations.  Notre mission est d’informer, sensibiliser et éduquer sur les enjeux de santé publique, les bonnes pratiques médicales, les innovations du secteur, ainsi que les actions de l’Ordre et des professionnels de santé.  À travers des émissions spécialisées, des interviews, des reportages terrain, des conseils pratiques et des débats, ONMCI TV devient une plateforme d’échange entre les médecins, les institutions, et les citoyens.  Accessible à tous, ONMCI TV est un pont entre le monde médical et le grand public, avec un seul objectif : contribuer à une société mieux informée, en meilleure santé",
-  "live_url": "https://stream.berosat.live:19360/onmci-tv/onmci-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODU5ODM5MDVf/onmceitv.jpg",
+  "description": "Furah télévision est une chaine commercial emettant depuis Kinshasa, en Republique Democratique du Congo",
+  "live_url": "https://stream.berosat.live:19360/furah-tv/furah-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NzZfMTIyMTk3OTQzXw/furahtv.jpg",
   "categorie": "GENERALISTE"
   },
   "34":{
@@ -356,20 +356,20 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
   },
  "39":{
   "id": "39",
-  "name": "COBLA TV",
+  "name": "CPT TV",
   "number":"40",
-  "description": "Cobla Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo",
-  "live_url": "https://stream.berosat.live:19360/cobla-tv-stream/cobla-tv-stream.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODEzODc0NDFf/coblatv.jpg",
+  "description": "CPT télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
+  "live_url": "https://stream.berosat.live:19360/cpt-tv/cpt-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NzZfMTIyMTk3OTQyXw/cpttv.jpg",
   "categorie": "SPORTS"
   },
   "40":{
   "id": "40",
-  "name": "JDK TV",
+  "name": "BY WELLO TV",
   "number":"41",
-  "description": "JDK télévision , une chaîne generaliste d'Entertaiment pour promouvoir le cinema Congolais",
-  "live_url": "https://stream.berosat.live:19360/jdk-tv/jdk-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODQzMzUzNDNf/jdktv.jpg",
+  "description": "By Wello télévision est Une Chaîne à caractère cinématographique et culturel",
+  "live_url": "https://stream.berosat.live:19360/wello-tv/wello-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NzZfMTIyMTk2NzYxXw/welotv.jpg",
   "categorie": "SPORTS"
   },
   "41":{
@@ -383,11 +383,11 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
   },
   "42":{
   "id": "42",
-  "name": "LA REUNION TV",
+  "name": "C-ONE TV",
   "number":"43",
-  "description": "La Reeunion Television est une chaîne generaliste émettant à Kinshasa",
-  "live_url": "https://stream.berosat.live:19360/reunion-tv/reunion-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODE2MTg0OTdf/lareunion.png",
+  "description": "C-ONE TV est une chaîne de télévision numérique moderne dédiée à la jeunesse, à l’innovation et à l’excellence. - Information, - Éducation et formation, - Divertissement, - Innovation digitale",
+  "live_url": "https://stream.berosat.live:19360/sarah-tv/sarah-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NzZfMTIyMjE5ODgyXw/c-onetv.jpg",
   "categorie": "SPORTS"
   },
   "43":{
@@ -401,20 +401,20 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
   },
   "44":{
   "id": "44",
-  "name": "EMB MISSION TV",
+  "name": "SIFA TV",
   "number":"45",
-  "description": "EMB MISSION TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés...",
-  "live_url": "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg",
+  "description": "Sifa La Souriante Télévision, Canal en Test ................",
+  "live_url": "https://stream.berosat.live:19360/sifa-tv/sifa-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NzZfMTIyMTk3OTQ3Xw/sifatv.jpg",
   "categorie": "SPORTS"
   },
   "45":{
   "id": "45",
-  "name": "MK NGOMA TV",
+  "name": "INFO + HD TV",
   "number":"46",
-  "description": "MK Ngoma television  est une chaîne de radio-télévision web chrétienne prophétique, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, la chaînes restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin.",
-  "live_url": "https://stream.berosat.live:19360/mk-ngoma-tv/mk-ngoma-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODMzNzE4MjNf/mkNgomatv.jpg",
+  "description": "infos Plus Magazine télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques",
+  "live_url": "https://stream.berosat.live:19360/infos-plus/infos-plus.m3u8",
+  "thumbnail": "https://od.lk/s/NzZfMTIyMTk3OTQ1Xw/infosplus.jpg",
   "categorie": "SPORTS"
   },
   "46":{
@@ -455,20 +455,20 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
   },
   "50":{
   "id": "50",
-  "name": "CHARVIN TV",
+  "name": "KMK TV",
   "number":"51",
-  "description": "CHARVIN TV tele est une chaine thematique en Republique Democratique du Congo",
-  "live_url": "https://stream.berosat.live:19360/charvin-tv/charvin-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODQwMzk3OTFf/charvin.jpg",
+  "description": "KMK TV (Kreativ Média Kongo) est une chaîne de télévision congolaise commerciale et généraliste, bâtie sur les piliers de la créativité, de l’innovation et du professionnalisme. Notre mission est claire : informer, divertir et inspirer le public congolais ainsi que le monde entier à travers des contenus riches, dynamiques et porteurs de valeurs. Nous nous positionnons comme une plateforme audiovisuelle moderne et stratégique, ouverte sur le monde et connectée aux réalités du public d’aujourd’hui. Grâce à une programmation variée – actualités, magazines, divertissements, culture, éducation, économie, talk-shows, et émissions de société – KMK TV se distingue comme un carrefour d’idées, d’opportunités et d’expression pour tous. Pour les annonceurs, institutions et marques, KMK TV offre une visibilité nationale et internationale de haut niveau, grâce à une diffusion de qualité et à une audience diversifiée et engagée. Slogan : Vous servir, c’est notre devoir. 🌐 Contact : kmktvcommerciale@gmail.com 📢 KMK TV – Là où la créativité rencontre l’excellence pour servir le Congo et le monde.",
+  "live_url": "https://stream.berosat.live:19360/kmk-index/kmk-index.m3u8",
+  "thumbnail": "https://od.lk/s/NzZfMTIyMTk4MDY4Xw/kmk.jpg",
   "categorie": "SPORTS"
   },
   "51":{
   "id": "51",
-  "name": "MBALIOSOMBO TV",
+  "name": "LOLLYWOOD HD TV",
   "number":"52",
-  "description": "Mbaliosombo télévision , une chaîne d'Entertaiment pour promouvoir le cinema Congolais !!",
-  "live_url": "https://stream.berosat.live:19360/mbalio-tv/mbalio-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODQzMTM0MjZf/mbaliosombo.jpg",
+  "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale",
+  "live_url": "https://5caf24a595d94.streamlock.net:1937/8052/8052/playlist.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODgwMDc4MjFf/lollywoodtv.jpg",
   "categorie": "SPORTS"
   },
   "52":{
@@ -491,11 +491,12 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
   },
   "54":{
   "id": "54",
-  "name": "TELE PROVINCE",
+  "name": "CONGO UNIS",
   "number":"55",
-  "description": "Tele Province, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo",
-  "live_url": "https://stream.berosat.live:19360/tele-province/tele-province.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzY4MTkwNTJf/teleprovincewhite.jpg",
+  "description": "Bienvenue sur Congo Unis Télévision, la chaîne des mémoires vivantes.Ici, chaque émission est une cérémonie, chaque diffusion une offrande à la mémoire collective.
+Nous sommes Congo Unis Télévision, un espace où la technique rencontre la poésie, où l’image devient rituel. Ce que nous proposons : - 🎬 Films et séries qui racontent l’histoire et l’avenir du Congo. - 📰 Informations et débats pour éclairer la jeunesse et renforcer l’unité. - 🎤 Concerts, cérémonies et événements retransmis comme invocations vivantes. 👉 Abonnez-vous pour participer à cette aventure où chaque image est une parole vivante, chaque programme une invocation d’unité et de réparation.",
+  "live_url": "https://stream.berosat.live:19360/congo-unis/congo-unis.m3u8",
+  "thumbnail": "https://od.lk/s/NzZfMTIyMTk3OTQxXw/congounistv.jpg",
   "categorie": "SPORTS"
   },
   "55":{
@@ -590,20 +591,21 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
   },
   "65":{
   "id": "65",
-  "name": "MASOLO TV",
+  "name": "BARAKA TV",
   "number":"66",
-  "description": "Masolo television est une chaîne privee en Republique Democratique du Congo",
-  "live_url": "https://stream.berosat.live:19360/masolo-tv/masolo-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODQ0MjMyNTNf/masolotv.jpg",
+  "description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs. Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111",
+  "live_url": "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8",
+  "thumbnail": "https://od.lk/s/NzZfMTIyMTk4MDYzXw/barakatv.jpg",
   "categorie": "SPORTS"
   },
   "66":{
   "id": "66",
-  "name": "LES ERUDITS TV",
+  "name": "DEAL WORLD TV",
   "number":"67",
-  "description": "Les Erudits télévision , une chaîne generaliste d'Entertaiment pour promouvoir le cinema Congolais",
-  "live_url": "https://stream.berosat.live:19360/erudits-tv/erudits-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg",
+  "description": "DealWorld TV, La convergence du commerce et de la connaissance. DealWorld TV est une chaîne hybride IPTV en direct de téléachat et de formation, conçue pour répondre aux attentes d’un public en quête de solutions concrètes, d’opportunités commerciales et de montées en compétences. Elle combine la puissance du téléachat interactif avec des contenus pédagogiques ciblés, pour créer un écosystème unique où chaque produit vendu est aussi une porte d’entrée vers le savoir-faire.
+Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs offres dans un format immersif, DealWorld TV propose un modèle économique innovant, scalable et orienté performance. « DealWorld TV – Le média qui transforme l’achat en savoir »",
+  "live_url": "http://45.8.148.135/hls/CANAL-TEST/index.m3u8",
+  "thumbnail": "https://od.lk/s/NzZfMTIyMTk3OTk2Xw/DealWorld.jpg",
   "categorie": "SPORTS"
   },
   "67":{
