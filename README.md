@@ -227,11 +227,11 @@
   },
   "25":{
   "id": "25",
-  "name": "VOIE DE VERITE",
+  "name": "SIFA TV",
   "number":"26",
-  "description": "La Voie dela Verite Television Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.",
-  "live_url": "https://stream.berosat.live:19360/voie-verite/voie-verite.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODU2MDQyODlf/voiedeverite.jpg",
+  "description": "Sifa La Souriante Télévision, la Chaîne à caractère cinématographique et culturel en Republique Democratique du Congo.",
+  "live_url": "https://stream.berosat.live:19360/sifa-tv/sifa-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NzZfMTIyMTk3OTQ3Xw/sifatv.jpg",
   "categorie": "GENERALISTE"
   },
   "26":{
