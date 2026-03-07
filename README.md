@@ -159,7 +159,7 @@
   "number":"18",
   "description": "☀️🌧⚡️MTV RDC – Météo Télévision est la première chaîne congolaise entièrement dédiée à l’information météorologique et climatique en République démocratique du Congo. Notre mission est simple : 🌍 Informer • Prévenir • Protéger ☀️🌧⚡️MTV RDC ☀️🌧⚡️ Comprendre le ciel, anticiper demain",
   "live_url": "https://stream.berosat.live:19360/mtv-index/mtv-index.m3u8",
-  "thumbnail": ""https://od.lk/s/NDZfOTEwMDAyNTBf/meteotv.jpg",
+  "thumbnail": "https://od.lk/s/NDZfOTEwMDAyNTBf/meteotv.jpg",
   "categorie": "GENERALISTE"
   },
   "18":{
@@ -293,7 +293,7 @@
   "name": "LA BORNE TV",
   "number":"33",
   "description": "La Borne Mpasa, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation...",
-  "live_url": ""https://stream.berosat.live:19360/laborne-tv/laborne-tv.m3u8",
+  "live_url": "https://stream.berosat.live:19360/laborne-tv/laborne-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfOTExNzQ1NzRf/bornetv.jpg",
   "categorie": "GENERALISTE"
   },
