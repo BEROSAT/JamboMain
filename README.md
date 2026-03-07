@@ -29,11 +29,11 @@
   },
   "3":{
   "id": "3",
-  "name": "3K HD TÉLÉVISION",
+  "name": "FRYCOMS TÉLÉVISION",
   "number":"04",
-  "description": "3K HD TÉLÉVISION, une chaine culturelle 100% swahiliphone",
-  "live_url": "https://stream.berosat.live:19360/3khd-index/3khd-index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODM5Mjc2NThf/3ktelevision.jpg",
+  "description": "FryComs TV est une Television d’information générale qui émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
+  "live_url": "https://stream.berosat.live:19360/frycoms-tv/frycoms-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfOTA3MjU4NTRf/frycomstv.jpg",
   "categorie": "GENERALISTE"
   },
   "4":{
@@ -92,16 +92,16 @@
   },
   "10":{
   "id": "10",
-  "name": "ADM TV",
+  "name": "LIBERTY TÉLÉVISION",
   "number":"11",
-  "description": "ADM, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
-  "live_url":"https://stream.berosat.live:19360/adm-tv/adm-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NzZfMTIyMTk3OTM4Xw/adm.jpg",
+  "description": "Liberty Télévision, la chaîne d'expression",
+  "live_url":"https://stream.berosat.live:19360/liberty-tv/liberty-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfOTExMDY0NTlf/libertytv.jpg",
   "categorie": "GENERALISTE"
   },
   "11":{
   "id": "11",
-  "name": "ESAIE 45 TELE",
+  "name": "ESAIE 45 TÉLÉ",
   "number":"12",
   "description": "Esaie 45 tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information. ESAIE 45 TELE vous accompagne pour la diffusion et la production audiovisuelle de vos contenus. Un instrument pour la groire du Dieu vivant, le pere de notre sauveur et seigneur Jesus-Christ. ESAIE 45 TELE, notre monde de la spiritualite.",
   "live_url": "https://stream.berosat.live:19360/esaie45-tv/esaie45-tv.m3u8",
@@ -155,11 +155,11 @@
   },
   "17":{
   "id": "17",
-  "name": "VITESSE TV",
+  "name": "MÉTÉO TÉLÉVISION",
   "number":"18",
-  "description": "Vitesse TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
-  "live_url": "https://stream.berosat.live:19360/vitesse-tv/vitesse-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NzZfMTIyMTk3OTQ5Xw/vitesse.jpg",
+  "description": "☀️🌧⚡️MTV RDC – Météo Télévision est la première chaîne congolaise entièrement dédiée à l’information météorologique et climatique en République démocratique du Congo. Notre mission est simple : 🌍 Informer • Prévenir • Protéger ☀️🌧⚡️MTV RDC ☀️🌧⚡️ Comprendre le ciel, anticiper demain",
+  "live_url": "https://stream.berosat.live:19360/mtv-index/mtv-index.m3u8",
+  "thumbnail": ""https://od.lk/s/NDZfOTEwMDAyNTBf/meteotv.jpg",
   "categorie": "GENERALISTE"
   },
   "18":{
@@ -200,11 +200,11 @@
   },
   "22":{
   "id": "22",
-  "name": "CEPPA TV",
+  "name": "MOSAIQUE TV",
   "number":"23",
-  "description": "C.E.P.P.A television  est une chaîne chretienne, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, la chaînes restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin.",
-  "live_url": "https://stream.berosat.live:19360/ceppa-tv/ceppa-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODU1MTEzNzdf/ceppatv.jpg",
+  "description": "Mosaïque télévision chaîne généraliste de proximité émettent à Kinshasa en République démocratique du Congo",
+  "live_url": "https://stream.berosat.live:19360/mosaique-tv/mosaique-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfOTA0MTQ1NDBf/mosaique.jpg",
   "categorie": "GENERALISTE"
   },
   "23":{
@@ -236,11 +236,11 @@
   },
   "26":{
   "id": "26",
-  "name": "BILILI TV",
+  "name": "LUMIERE TV",
   "number":"27",
-  "description": "BILILI TV est une chaîne audiovisuelle congolaise à vocation culturelle et généraliste, diffusée en ligne via son site officiel BILILI TV Congo ainsi que sur les plateformes sociales telles que  le Bouquet BERO TV, JAMBO PRO, CONGO FM, YouTube, Facebook, Instagram et autres...   Sa mission est de refléter fidèlement les réalités Congolais, de valoriser les talents locaux, de promouvoir la diversité culturelle et de porter haut les aspirations du peuple congolais.  À travers une programmation innovante et dynamique, BILILI TV informe, éduque, divertir et rassemble.   En tant que médias de proximité, BILILI TV se veut inclusive et ouverte à toutes les voix, en mettant en lumière les langues vernaculaires du Congo aux côtés des langues étrangères.  Elle incarne une ambition nationale tournée vers l'unité, le progrès et la valorisation de l'identité congolaise. BILILI TV, le Congo dans son ensemble !!!!!",
-  "live_url": "https://stream.berosat.live:19360/bilili-tv-hd/bilili-tv-hd.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODE1ODI3NzVf/bilili.jpg",
+  "description": "Lumiere du Monde télévision est une chaîne généraliste qui vous fait découvrir le monde à travers les actualités politiques, religion, société, et divertissement ,nous emettons à Kinshasa en République démocratique du Congo",
+  "live_url": "https://stream.berosat.live:19360/lumiere-tv/lumiere-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfOTAzNDA3ODhf/lumieremomde.jpg",
   "categorie": "GENERALISTE"
   },
   "27":{
@@ -281,29 +281,29 @@
   },
   "31":{
   "id": "31",
-  "name": "BLUESKY TV",
+  "name": "HORIZON 2000 HD TV",
   "number":"32",
-  "description": "BlueSky télévision est une chaine generaliste depuis la ville de Lubumbashi qui promouvoir la Culture !!!",
-  "live_url": "https://stream.berosat.live:19360/bluesky-tv/bluesky-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODU4ODIxOThf/blueskytelevision.png",
+  "description": "Horizon 2000 HD Television est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
+  "live_url": "https://stream.berosat.live:19360/tv-horizon-2000hd-index/tv-horizon-2000hd-index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODE5Mzg0MTVf/horizon2000TV.jpg",
   "categorie": "SPORTS"
   }, 
   "32":{
   "id": "32",
-  "name": "BM TV",
+  "name": "LA BORNE TV",
   "number":"33",
-  "description": "BM télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation. Nous Emettons depuis Kinshasa, en Republique Democratique du Congo...",
-  "live_url": "https://stream.berosat.live:19360/bmtv/bmtv.m3u8",
-  "thumbnail": "https://od.lk/s/NzZfMTIyMTk3OTQwXw/bmtv.jpg",
+  "description": "La Borne Mpasa, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation...",
+  "live_url": ""https://stream.berosat.live:19360/laborne-tv/laborne-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfOTExNzQ1NzRf/bornetv.jpg",
   "categorie": "GENERALISTE"
   },
   "33":{
   "id": "33",
-  "name": "FURAH TV",
+  "name": "PRIJANA TV",
   "number":"34",
-  "description": "Furah télévision est une chaine commercial emettant depuis Kinshasa, en Republique Democratique du Congo",
-  "live_url": "https://stream.berosat.live:19360/furah-tv/furah-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NzZfMTIyMTk3OTQzXw/furahtv.jpg",
+  "description": "Prijana TV est une chaîne généraliste emettant depuis Kinshasa, en Republique Democratique du Congo",
+  "live_url": "https://stream.berosat.live:19360/prijana/prijana.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfOTAxNTgxNjVf/prijanatv.jpg",
   "categorie": "GENERALISTE"
   },
   "34":{
@@ -356,11 +356,11 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
   },
  "39":{
   "id": "39",
-  "name": "CPT TV",
+  "name": "HEROS TV",
   "number":"40",
-  "description": "CPT télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
-  "live_url": "https://stream.berosat.live:19360/cpt-tv/cpt-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NzZfMTIyMTk3OTQyXw/cpttv.jpg",
+  "description": "Heros télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés",
+  "live_url": "https://stream-195689.castr.net/63dea568fbc24884706157bb/live_84b6bd00a30011eeabad0fe2d8964889/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfOTA4MjczOTJf/heros.jpg",
   "categorie": "SPORTS"
   },
   "40":{
@@ -386,17 +386,17 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
   "name": "C-ONE TV",
   "number":"43",
   "description": "C-ONE TV est une chaîne de télévision numérique moderne dédiée à la jeunesse, à l’innovation et à l’excellence. - Information, - Éducation et formation, - Divertissement, - Innovation digitale",
-  "live_url": "https://stream.berosat.live:19360/sarah-tv/sarah-tv.m3u8",
+  "live_url": "https://stream.berosat.live:19360/c-one/c-one.m3u8",
   "thumbnail": "https://od.lk/s/NzZfMTIyMjE5ODgyXw/c-onetv.jpg",
   "categorie": "SPORTS"
   },
   "43":{
   "id": "43",
-  "name": "HANNABIH TV",
+  "name": "TELE 50",
   "number":"44",
-  "description": "Hannabih Télévision est la Première chaîne panafricaniste",
-  "live_url": "https://stream.berosat.live:19360/hannabih-tv/hannabih-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODQxODY3MTBf/hannabih.jpg",
+  "description": "Tele 50 est la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo",
+  "live_url": "https://stream-195689.castr.net/63dea568fbc24884706157bb/live_08637130250e11f0afb3a374844fe15e/index.fmp4.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODY3NTUwMjRf/tele50.jpg",
   "categorie": "SPORTS"
   },
   "44":{
@@ -437,11 +437,11 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
   },
   "48":{
   "id": "48",
-  "name": "MACHINE RECORD TV",
+  "name": "HEROS TV",
   "number":"49",
-  "description": "Machine Record television est une Chaine généraliste culturelle émettent depuis Kinshasa en Republique Democratique du Congo",
-  "live_url": "https://stream.berosat.live:19360/machine-record/machine-record.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODQyOTc4ODRf/machineRecord.jpg",
+  "description": "Heros télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés émettent depuis Kinshasa en Republique Democratique du Congo",
+  "live_url": "https://stream-195689.castr.net/63dea568fbc24884706157bb/live_c83208c05dda11eeaecf77f984d6072c/rewind-3600.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfOTA4MjczOTJf/heros.jpg",
   "categorie": "SPORTS"
   },
   "49":{
@@ -473,11 +473,11 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
   },
   "52":{
   "id": "52",
-  "name": "MEMJS TV",
+  "name": "KIPUSHI 24 TV",
   "number":"53",
-  "description": "MEMJS télévision, nous sommes une chaine chrétienne pour le salut des Ames!",
-  "live_url": "https://stream.berosat.live:19360/memjs-tv/memjs-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODQyOTY5OTBf/memjs.jpg",
+  "description": "Kipushi 24 télévision, est une chaîne généraliste d'iformations, divertissement et la promotion Culturelle. émettant en République Démocratique du Congo",
+  "live_url": "http://iptv.berosat.live/hls/KIPUSHI24/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfOTAzMTM1OTJf/kipushi24.jpg",
   "categorie": "SPORTS"
   },
   "53":{
