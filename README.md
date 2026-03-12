@@ -401,11 +401,11 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
   },
   "44":{
   "id": "44",
-  "name": "SIFA TV",
+  "name": "NURU RTV",
   "number":"45",
-  "description": "Sifa La Souriante Télévision, Canal en Test ................",
-  "live_url": "https://stream.berosat.live:19360/sifa-tv/sifa-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NzZfMTIyMTk3OTQ3Xw/sifatv.jpg",
+  "description": "NURU radio télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo 🇨🇩 dans la province du haut katanga tout précisément dans la ville de LIKASI NOTRE fréquence radio 90.5 Fm ,  525.25 MHz à la télévision",
+  "live_url": "https://stream.berosat.live:19360/nuru-tv/nuru-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfOTEyNzMzNTJf/nurutv.jpg",
   "categorie": "SPORTS"
   },
   "45":{
