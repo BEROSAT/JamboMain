@@ -20,13 +20,13 @@
   },
   "2":{
   "id": "2",
-  "name": "MAGECO PRO TV",
+  "name": "BALADE MONDE TV",
   "number":"03",
-  "description": "MAGECO PRO TV, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
-  "live_url": "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@MAGECO_PRO_TV.m3u8",
-  "thumbnail": "https://od.lk/s/NzZfMTIyMTk4MDAxXw/mageco.jpg",
+  "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.",
+  "live_url": "https://stream.berosat.live:19360/live-tv/live-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp",
   "categorie": "GENERALISTE"
-  },
+  },  
   "3":{
   "id": "3",
   "name": "FRYCOMS TÉLÉVISION",
