@@ -236,11 +236,11 @@
   },
   "26":{
   "id": "26",
-  "name": "LUMIERE TV",
+  "name": "METEO TV",
   "number":"27",
-  "description": "Lumiere du Monde télévision est une chaîne généraliste qui vous fait découvrir le monde à travers les actualités politiques, religion, société, et divertissement ,nous emettons à Kinshasa en République démocratique du Congo",
-  "live_url": "https://stream.berosat.live:19360/lumiere-tv/lumiere-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfOTAzNDA3ODhf/lumieremomde.jpg",
+  "description": "☀️🌧⚡️MTV RDC – Météo Télévision est la première chaîne congolaise entièrement dédiée à l’information météorologique et climatique en République démocratique du Congo. Notre mission est simple : 🌍 Informer • Prévenir • Protéger ☀️🌧⚡️MTV RDC ☀️🌧⚡️ Comprendre le ciel, anticiper demain",
+  "live_url": "https://stream.berosat.live:19360/mtv-index/mtv-index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfOTEwMDAyNTBf/meteotv.jpg",
   "categorie": "GENERALISTE"
   },
   "27":{
@@ -299,11 +299,11 @@
   },
   "33":{
   "id": "33",
-  "name": "PRIJANA TV",
+  "name": "MS TV",
   "number":"34",
-  "description": "Prijana TV est une chaîne généraliste emettant depuis Kinshasa, en Republique Democratique du Congo",
-  "live_url": "https://stream.berosat.live:19360/prijana/prijana.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfOTAxNTgxNjVf/prijanatv.jpg",
+  "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Brazzaville, en République du Cong.",
+  "live_url": "http://iptv.berosat.live/hls/MSTV/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfOTE5ODkzODBf/mstv.jpg",
   "categorie": "GENERALISTE"
   },
   "34":{
@@ -328,11 +328,11 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
   },
   "36":{
   "id": "36",
-  "name": "KEUR NDANANE TV",
+  "name": "ESPEC TV",
    "number":"37",
-  "description": "KEUR NDANANE TV est une chaîne multiculturelle diffusant au Senegal axée sur la diversité des contenus pour répondre aux intérêts variés de notre public. Localisation : Rufisque, à quelques kilomètres de Dakar, la capitale du Sénégal. Nous Contacter sur 1 Rue PAUL Sicamois prolongée juste avant l’école primaire Mbaye NDIR Tel : +221 33 871 61 22 /221772082121/+393515993000 Email : keurndananetv.sn@gmail.com",
-  "live_url": "http://livestream.kgsols.com/push/KeurN/playlist.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNjY0MTI4OTZf/keurndanane.jpg",
+  "description": "Espec télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation...",
+  "live_url": "https://stream.berosat.live:19360/espec-tv/espec-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfOTIyNjcyNTZf/Espectele.jpg",
   "categorie": "SPORTS"
   },
   "37":{
@@ -365,11 +365,11 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
   },
   "40":{
   "id": "40",
-  "name": "BY WELLO TV",
+  "name": "RTK MONDE",
   "number":"41",
-  "description": "By Wello télévision est Une Chaîne à caractère cinématographique et culturel",
-  "live_url": "https://stream.berosat.live:19360/wello-tv/wello-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NzZfMTIyMTk2NzYxXw/welotv.jpg",
+  "description": "RTK Monde Télévision est une chaîne kimbanguiste emettant depuis kinshasa en République démocratique du Congo",
+  "live_url": "https://stream.berosat.live:19360/rtk-monde/rtk-monde.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfOTE2NDY2NjZf/rtkmondetv.jpg",
   "categorie": "SPORTS"
   },
   "41":{
@@ -464,20 +464,20 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
   },
   "51":{
   "id": "51",
-  "name": "LOLLYWOOD HD TV",
+  "name": "HELLO TV",
   "number":"52",
-  "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale",
-  "live_url": "https://5caf24a595d94.streamlock.net:1937/8052/8052/playlist.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODgwMDc4MjFf/lollywoodtv.jpg",
+  "description": "Hello TV est une Television d’information générale qui émet depuis République démocratique du Congo.",
+  "live_url": "https://stream.berosat.live:19360/hello-tv/hello-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfOTE2NTE1MzVf/Hellotv1.jpg",
   "categorie": "SPORTS"
   },
   "52":{
   "id": "52",
-  "name": "KIPUSHI 24 TV",
+  "name": "RT AFRIKA TELEMA",
   "number":"53",
-  "description": "Kipushi 24 télévision, est une chaîne généraliste d'iformations, divertissement et la promotion Culturelle. émettant en République Démocratique du Congo",
-  "live_url": "http://iptv.berosat.live/hls/KIPUSHI24/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfOTAzMTM1OTJf/kipushi24.jpg",
+  "description": "RT Afrika Telema TV est une chaîne généraliste. émettant en République Démocratique du Congo",
+  "live_url": "https://stream.berosat.live:19360/afrika-index/afrika-index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODc2NjAwNTNf/afrikatelema.jpg",
   "categorie": "SPORTS"
   },
   "53":{
@@ -491,12 +491,11 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
   },
   "54":{
   "id": "54",
-  "name": "CONGO UNIS",
+  "name": "SM-VIDEO TV",
   "number":"55",
-  "description": "Bienvenue sur Congo Unis Télévision, la chaîne des mémoires vivantes.Ici, chaque émission est une cérémonie, chaque diffusion une offrande à la mémoire collective.
-Nous sommes Congo Unis Télévision, un espace où la technique rencontre la poésie, où l’image devient rituel. Ce que nous proposons : - 🎬 Films et séries qui racontent l’histoire et l’avenir du Congo. - 📰 Informations et débats pour éclairer la jeunesse et renforcer l’unité. - 🎤 Concerts, cérémonies et événements retransmis comme invocations vivantes. 👉 Abonnez-vous pour participer à cette aventure où chaque image est une parole vivante, chaque programme une invocation d’unité et de réparation.",
-  "live_url": "https://stream.berosat.live:19360/congo-unis/congo-unis.m3u8",
-  "thumbnail": "https://od.lk/s/NzZfMTIyMTk3OTQxXw/congounistv.jpg",
+  "description": "SM-Video TV est une chaîne généraliste d'informations et divrtissement Émettant depuis la ville de Matad dans la Province dde Congo-Centrale en Republique Democratique du Congo",
+  "live_url": "https://stream.berosat.live:19360/sm-video/sm-video.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfOTE2NjMxNTZf/SMvideotv2.jpg",
   "categorie": "SPORTS"
   },
   "55":{
@@ -600,12 +599,11 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
   },
   "66":{
   "id": "66",
-  "name": "DEAL WORLD TV",
+  "name": "AFRI TV",
   "number":"67",
-  "description": "DealWorld TV, La convergence du commerce et de la connaissance. DealWorld TV est une chaîne hybride IPTV en direct de téléachat et de formation, conçue pour répondre aux attentes d’un public en quête de solutions concrètes, d’opportunités commerciales et de montées en compétences. Elle combine la puissance du téléachat interactif avec des contenus pédagogiques ciblés, pour créer un écosystème unique où chaque produit vendu est aussi une porte d’entrée vers le savoir-faire.
-Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs offres dans un format immersif, DealWorld TV propose un modèle économique innovant, scalable et orienté performance. « DealWorld TV – Le média qui transforme l’achat en savoir »",
-  "live_url": "http://45.8.148.135/hls/CANAL-TEST/index.m3u8",
-  "thumbnail": "https://od.lk/s/NzZfMTIyMTk3OTk2Xw/DealWorld.jpg",
+  "description": "Afri TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres émettant depuis la République démocratique du Congo",
+  "live_url": "https://stream.berosat.live:19360/afri-tv/afri-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfOTE2NzcwODJf/Afritv.jpg",
   "categorie": "SPORTS"
   },
   "67":{
