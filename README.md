@@ -5,7 +5,7 @@
   "name":"RL PRO TV",
   "number":"01",
   "description":"RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM",
-  "live_url":"http://iptv.berosat.live/hls/RLPRO-TV/index.m3u8",
+  "live_url":"http://ip-pro.berosat.live/hls/live/RLPRO-TV/index.m3u8",
   "thumbnail":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
   "categorie":"GENERALISTE"
   },
@@ -17,7 +17,11 @@
   "live_url":"https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg",
   "categorie":"GENERALISTE"
-  },
+  }
+}
+
+
+
   "2":{
   "id": "2",
   "name": "BALADE MONDE TV",
@@ -705,4 +709,4 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
   "thumbnail":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
   "categorie":"GENERALISTE"
   }
-}
+
