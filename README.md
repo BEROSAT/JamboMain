@@ -17,11 +17,7 @@
   "live_url":"https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg",
   "categorie":"GENERALISTE"
-  }
-}
-
-
-
+  },
   "2":{
   "id": "2",
   "name": "BALADE MONDE TV",
