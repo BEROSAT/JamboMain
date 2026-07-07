@@ -14,7 +14,7 @@
   "name":"LE MONDE EN 24H",
   "number":"02",
   "description":"Le Monde en 24H, l'autoroute de l'information ",
-  "live_url":"https://stream.berosat.live:19360/monde24h-tv-index/monde24h-tv-index.m3u8",
+  "live_url":"https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg",
   "categorie":"GENERALISTE"
   },
@@ -23,7 +23,7 @@
   "name": "BALADE MONDE TV",
   "number":"03",
   "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.",
-  "live_url": "https://stream.berosat.live:19360/live-tv/live-tv.m3u8",
+  "live_url": "https://stream.berosat.live/hls/live-tv/live-tv.m3u8",
   "thumbnail": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp",
   "categorie": "GENERALISTE"
   },  
@@ -32,17 +32,17 @@
   "name": "FRYCOMS TÉLÉVISION",
   "number":"04",
   "description": "FryComs TV est une Television d’information générale qui émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
-  "live_url": "https://stream.berosat.live:19360/frycoms-tv/frycoms-tv.m3u8",
+  "live_url": "https://stream.berosat.live/hls/frycoms-tv/frycoms-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfOTA3MjU4NTRf/frycomstv.jpg",
   "categorie": "GENERALISTE"
   },
   "4":{
   "id": "4",
-  "name": "JSN TV",
+  "name": "3D CINEMA",
   "number":"05",
-  "description": "JESUS Sauveur des Nations, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
-  "live_url": "https://stream.berosat.live:19360/jsn-tv/jsn-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODU0MTAzNzlf/jsntv.jpg",
+  "description": "3D CINEMA, la chaîne de toutes les émotions émettant à Kinshasa en République Démocratique du Congo",
+  "live_url": "http://ip-pro.berosat.live/hls/live/3D-CINEMA/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfOTMyNTcxNTVf/3Dcinema.png",
   "categorie": "GENERALISTE"
   },
   "5":{
@@ -50,7 +50,7 @@
   "name": "FINESSE MONDE TV",
   "number":"06",
   "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo",
-  "live_url": "https://stream.berosat.live:19360/finesse-monde/finesse-monde.m3u8",
+  "live_url": "https://stream.berosat.live/hls/finesse-monde/finesse-monde.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODIzMzg2NDlf/finesseTVmonde.jpg",
   "categorie": "GENERALISTE"
   },
@@ -86,7 +86,7 @@
   "name": "TV LA CAPITALE",
   "number":"10",
   "description": "TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro",
-  "live_url": "https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8",
+  "live_url": "https://stream.berosat.live/hls/tv-capitale-tream/tv-capitale-tream.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg",
   "categorie": "GENERALISTE"
   },
@@ -95,7 +95,7 @@
   "name": "LIBERTY TÉLÉVISION",
   "number":"11",
   "description": "Liberty Télévision, la chaîne d'expression",
-  "live_url":"https://stream.berosat.live:19360/liberty-tv/liberty-tv.m3u8",
+  "live_url":"https://stream.berosat.live/hls/liberty-tv/liberty-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfOTExMDY0NTlf/libertytv.jpg",
   "categorie": "GENERALISTE"
   },
