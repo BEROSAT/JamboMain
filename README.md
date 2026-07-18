@@ -14,10 +14,17 @@
   "name":"LE MONDE EN 24H",
   "number":"02",
   "description":"Le Monde en 24H, l'autoroute de l'information ",
-  "live_url":"https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8",
+  "live_url":"http://ip-pro.berosat.live/hls/live/RLPRO-TV/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg",
   "categorie":"GENERALISTE"
-  },
+  }
+}
+
+
+
+
+
+  
   "2":{
   "id": "2",
   "name": "BALADE MONDE TV",
@@ -705,5 +712,5 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
   "thumbnail":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
   "categorie":"GENERALISTE"
   }
-}
+
 
