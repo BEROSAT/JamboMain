@@ -18,13 +18,6 @@
   "thumbnail":"https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg",
   "categorie":"GENERALISTE"
   }
-}
-
-
-
-
-
-  
   "2":{
   "id": "2",
   "name": "BALADE MONDE TV",
@@ -42,7 +35,9 @@
   "live_url": "https://stream.berosat.live/hls/frycoms-tv/frycoms-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfOTA3MjU4NTRf/frycomstv.jpg",
   "categorie": "GENERALISTE"
-  },
+  }
+]
+
   "4":{
   "id": "4",
   "name": "3D CINEMA",
