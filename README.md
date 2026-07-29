@@ -8,7 +8,10 @@
   "live_url":"http://ip-pro.berosat.live/hls/live/RLPRO-TV/index.m3u8",
   "thumbnail":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
   "categorie":"GENERALISTE"
-  },
+  }
+}
+
+
   "1":{
   "id":"1",
   "name":"LE MONDE EN 24H",
@@ -18,12 +21,6 @@
   "thumbnail":"https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg",
   "categorie":"GENERALISTE"
   }
-}
-
-
-
-
-
   "2":{
   "id": "2",
   "name": "BALADE MONDE TV",
