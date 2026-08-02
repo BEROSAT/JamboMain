@@ -1,7 +1,7 @@
 # JamboMain
 {
   "0":{
-  "id":"0",
+  "id":"1",
   "name":"RL PRO TV",
   "number":"10",
   "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM",
@@ -10,7 +10,7 @@
   "categorie":"GENERALISTE"
   },
   "1":{
-  "id":"1",
+  "id":"2",
   "name":"LUKALA TV",
   "number":"11",
   "description":"Lukala télévision est une chaîne généraliste avec un programme riche telque Séries, Films, Télé-réalité, Humour, Jeux, Musique, Sport, Actualites, religion et autres",
@@ -18,7 +18,7 @@
   "thumbnail":"https://od.lk/thumb/M18zMzA5NDg3ODVf",
   "categorie":"GENERALISTE"
   },
-  "3":{
+  "2":{
   "id":"3",
   "name":"BARAKA TV",
   "number":"12",
@@ -27,7 +27,7 @@
   "thumbnail":"https://od.lk/s/NzZfMTIyMTk4MDYzXw/barakatv.jpg",
   "categorie":"GENERALISTE"
   },
-  "4":{
+  "3":{
   "id":"4",
   "name":"FRYCOMS TV",
   "number":"13",
