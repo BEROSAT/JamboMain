@@ -5,132 +5,75 @@
   "name":"RL PRO TV",
   "number":"01",
   "description":"RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM",
-  "live_url":"http://ip-pro.berosat.live/hls/live/RLPRO-TV/index.m3u8",
+  "live_url":"https://stream.berosat.live/hls/rlpro-tv/rlpro-tv.m3u8",
   "thumbnail":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
   "categorie":"GENERALISTE"
-  }
-}
-
-
+  },
   "1":{
   "id":"1",
-  "name":"LE MONDE EN 24H",
-  "number":"02",
-  "description":"Le Monde en 24H, l'autoroute de l'information ",
-  "live_url":"http://ip-pro.berosat.live/hls/live/RLPRO-TV/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg",
+  "name":"LUKALA TV",
+  "number":"01",
+  "description":"Lukala télévision est une chaîne généraliste avec un programme riche telque Séries, Films, Télé-réalité, Humour, Jeux, Musique, Sport, Actualites, religion et autres",
+  "live_url":"http://ip-pro.berosat.live/hls/live/LUKALA-TV/index.m3u8",
+  "thumbnail":"https://od.lk/thumb/M18zMzA5NDg3ODVf",
   "categorie":"GENERALISTE"
-  }
-  "2":{
-  "id": "2",
+  },
+  "3":{
+  "id":"3",
+  "name":"BARAKA TV",
+  "number":"01",
+  "description":"Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs. Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111",
+  "live_url":"https://stream.berosat.live/hls/baraka-hd/baraka-hd.m3u8",
+  "thumbnail":"https://od.lk/s/NzZfMTIyMTk4MDYzXw/barakatv.jpg",
+  "categorie":"GENERALISTE"
+  },
+  "4":{
+  "id":"4",
+  "name":"FRYCOMS TV",
+  "number":"01",
+  "description":"FryComs TV est une Television d’information générale qui émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu",
+  "live_url":"https://stream.berosat.live/hls/frycoms-tv/frycoms-tv.m3u8",
+  "thumbnail":"https://od.lk/thumb/NzNfMTM1MDQyMDQ5Xw",
+  "categorie":"GENERALISTE"
+  },
+  "5":{
+  "id": "5",
   "name": "BALADE MONDE TV",
   "number":"03",
   "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.",
   "live_url": "https://stream.berosat.live/hls/live-tv/live-tv.m3u8",
   "thumbnail": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp",
   "categorie": "GENERALISTE"
-  },  
-  "3":{
-  "id": "3",
-  "name": "FRYCOMS TÉLÉVISION",
-  "number":"04",
-  "description": "FryComs TV est une Television d’information générale qui émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
-  "live_url": "https://stream.berosat.live/hls/frycoms-tv/frycoms-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfOTA3MjU4NTRf/frycomstv.jpg",
-  "categorie": "GENERALISTE"
-  }
-  "4":{
-  "id": "4",
-  "name": "3D CINEMA",
-  "number":"05",
-  "description": "3D CINEMA, la chaîne de toutes les émotions émettant à Kinshasa en République Démocratique du Congo",
-  "live_url": "http://ip-pro.berosat.live/hls/live/3D-CINEMA/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfOTMyNTcxNTVf/3Dcinema.png",
-  "categorie": "GENERALISTE"
-  },
-  "5":{
-  "id": "5",
-  "name": "FINESSE MONDE TV",
-  "number":"06",
-  "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo",
-  "live_url": "https://stream.berosat.live/hls/finesse-monde/finesse-monde.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODIzMzg2NDlf/finesseTVmonde.jpg",
-  "categorie": "GENERALISTE"
   },
   "6":{
-  "id": "6",
-  "name": "TOSEKA TV",
-  "number":"07",
-  "description": "To Seka télévision est une chaîne 100% culturelle émettant depuis la ville province de Kinshasa en République Démocratique du Congo",
-  "live_url": "https://stream.berosat.live:19360/toseka-tv/toseka-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODkzMzAyNDFf/toseka.jpg",
-  "categorie": "GENERALISTE"
+  "id":"6",
+  "name":"FINESSE MONDE TV",
+  "number":"01",
+  "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo",
+  "live_url": "https://stream.berosat.live/hls/finesse-monde/finesse-monde.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODIzMzg2NDlf/finesseTVmonde.jpg",
+  "categorie":"GENERALISTE"
   },
   "7":{
   "id": "7",
-  "name": "BOSS BROTHER",
-  "number":"08",
+  "name": "LIBERTY TÉLÉVISION",
+  "number":"03",
+  "description": "Liberty Télévision, la chaîne d'expression depuis la République du Congo.",
+  "live_url": "https://stream.berosat.live/hls/liberty-tv/liberty-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfOTExMDY0NTlf/libertytv.jpg",
+  "categorie": "GENERALISTE"
+  },
+  "8":{
+  "id": "8",
+  "name": "BOSS BROTHER TV",
+  "number":"03",
   "description": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590",
   "live_url": "http://37.187.138.41:80/BOSSBROTHERSTV/index.m3u8",
   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg",
   "categorie": "GENERALISTE"
   },
-  "8":{
-  "id": "8",
-  "name": "ANTENNE A",
-  "number":"09",
-  "description": "Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo",
-  "live_url": "https://stream.berosat.live:19360/antenne-a-stream/antenne-a-stream.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png",
-  "categorie": "GENERALISTE"
-  },
   "9":{
   "id": "9",
-  "name": "TV LA CAPITALE",
-  "number":"10",
-  "description": "TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro",
-  "live_url": "https://stream.berosat.live/hls/tv-capitale-tream/tv-capitale-tream.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg",
-  "categorie": "GENERALISTE"
-  },
-  "10":{
-  "id": "10",
-  "name": "LIBERTY TÉLÉVISION",
-  "number":"11",
-  "description": "Liberty Télévision, la chaîne d'expression",
-  "live_url":"https://stream.berosat.live/hls/liberty-tv/liberty-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfOTExMDY0NTlf/libertytv.jpg",
-  "categorie": "GENERALISTE"
-  },
-  "11":{
-  "id": "11",
-  "name": "ESAIE 45 TÉLÉ",
-  "number":"12",
-  "description": "Esaie 45 tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information. ESAIE 45 TELE vous accompagne pour la diffusion et la production audiovisuelle de vos contenus. Un instrument pour la groire du Dieu vivant, le pere de notre sauveur et seigneur Jesus-Christ. ESAIE 45 TELE, notre monde de la spiritualite.",
-  "live_url": "https://stream.berosat.live:19360/esaie45-tv/esaie45-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzgyMzYzNzJf/esaie45.jpg",
-  "categorie": "GENERALISTE"
-  },
-  "12":{
-  "id": "12",
-  "name": "DER-TV",
-  "number":"13",
-  "description": "DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner..",
-  "live_url": "https://stream.berosat.live:19360/der-tv/der-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzc3NDIyNjVf/dertv.jpg",
-  "categorie": "GENERALISTE"
-  },
-  "13":{
-  "id": "13",
-  "name": "CH TV HD",
-  "number":"14",
-  "description": "Communaute Hospitaliere Télévision HD est une chaîne generaliste Informations et divrtissement Émettant en Republique Democratique du Congo.",
-  "live_url": "https://stream.berosat.live:19360/chtv-hd/chtv-hd.m3u8",
-  "thumbnail": "https://od.lk/s/NzZfMTIyMTk4MDY0Xw/chtv.jpg",
-  "categorie": "GENERALISTE"
-  },  
-  "14":{
-  "id": "14",
   "name": "KIN DIRECT TV",
   "number":"15",
   "description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières",
@@ -138,8 +81,8 @@
   "thumbnail": "https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg",
   "categorie": "GENERALISTE"
   },
-  "15":{
-  "id": "15",
+  "10":{
+  "id": "10",
   "name": "CHAMPION TV",
   "number":"16",
   "description": "champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.",
@@ -147,123 +90,89 @@
   "thumbnail": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg",
   "categorie": "GENERALISTE"
   },
-  "16":{
-  "id": "16",
+  "11":{
+  "id": "11",
   "name": "NTI TV",
   "number":"17",
   "description": "NTI TV est une chaîne privée émettant à Brazzaville",
-  "live_url": "https://stream.berosat.live:19360/nti-index/nti-index.m3u8",
+  "live_url": "https://stream.berosat.live/hls/nti-index/nti-index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODQyMDY2Njlf/ntitv.jpg",
   "categorie": "GENERALISTE"
   },
-  "17":{
-  "id": "17",
-  "name": "MÉTÉO TÉLÉVISION",
-  "number":"18",
-  "description": "☀️🌧⚡️MTV RDC – Météo Télévision est la première chaîne congolaise entièrement dédiée à l’information météorologique et climatique en République démocratique du Congo. Notre mission est simple : 🌍 Informer • Prévenir • Protéger ☀️🌧⚡️MTV RDC ☀️🌧⚡️ Comprendre le ciel, anticiper demain",
-  "live_url": "https://stream.berosat.live:19360/mtv-index/mtv-index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfOTEwMDAyNTBf/meteotv.jpg",
+  "12":{
+  "id": "12",
+  "name": "MOBA VISION TV",
+  "number":"34",
+  "description": "Moba Vision TV est une Television généraliste depuis la République démocratique du Congo",
+  "live_url": "https://stream.berosat.live/hls/moba-vision/moba-vision.m3u8",
+  "thumbnail": "https://od.lk/thumb/M18zMzA5NDg0MjVf",
   "categorie": "GENERALISTE"
+  },
+  "13":{
+  "id": "13",
+  "name": "RTBA",
+  "number":"03",
+  "description": "Radio tele buisson ardent d’information générale qui émet à partir de KINSHASA en République démocratique du Congo",
+  "live_url": "http://ip-pro.berosat.live/hls/live/RTBA/index.m3u8",
+  "thumbnail": "https://od.lk/thumb/M18zMzA5NDg3OTBf",
+  "categorie": "GENERALISTE"
+  },
+  "14":{
+  "id": "14",
+  "name": "RTBA",
+  "number":"03",
+  "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Congo",
+  "live_url": "http://ip-pro.berosat.live/hls/live/MSTV/index.m3u8",
+  "thumbnail": "https://od.lk/thumb/M18zMzA5NDg0MjZf",
+  "categorie": "GENERALISTE"
+  },
+  "15":{
+  "id": "15",
+  "name": "WANGU TV",
+  "number":"03",
+  "description": "WANGU RTV Média de proximité émettant depuis Kolwezi, au cœur du Lualaba. Nous informons, sensibilisons et valorisons les initiatives locales à travers nos actualités, reportages et émissions. Retrouvez-nous sur 87.5 FM, 511.25 MHz UHF et sur nos plateformes numériques. Vous servir est notre passion",
+  "live_url": "https://stream.berosat.live/hls/wangu-tv/wangu-tv.m3u8",
+  "thumbnail": "https://od.lk/thumb/NzNfMTM1MDQyMDU5Xw",
+  "categorie": "GENERALISTE"
+  },
+  "16":{
+  "id":"16",
+  "name":"OUAVILA'S TV",
+  "number":"01",
+  "description":"OUAVILA'S Télévision est une chaîne culturelle et artisanale mettant en avant la médecine traditionnelle, les coutumes et traditions, la royauté et la principauté africaine ainsi que l'innovation et la technologie africaine",
+  "live_url":"http://ip-pro.berosat.live/hls/live/OUAVILAS-TV/index.m3u8",
+  "thumbnail":"https://od.lk/thumb/M18zMzA5NDg0Mjdf",
+  "categorie":"GENERALISTE"
+  },
+  "17":{
+  "id":"17",
+  "name":"LAPANA TV",
+  "number":"01",
+  "description":"Lapana tv, est une chaîne généraliste et nous émettons depuis la ville de Kinshasa en République démocratique du Congo . Nous sommes un média centré sur les actualités politiques et culturelles. Nous organisons des reportages dans le seul but d informer, divertir et former la masse. Vos suggestions et remarques au numéro +243893616911.",
+  "live_url":"https://stream.berosat.live/hls/lapana-tv/lapana-tv.m3u8",
+  "thumbnail":"https://od.lk/s/NDNfNDcyODEzMjNf/Lapana.jpg",
+  "categorie":"GENERALISTE"
   },
   "18":{
-  "id": "18",
-  "name": "JERUBAAL TV",
-  "number":"19",
-  "description": "JERUBAAL TV, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation...",
-  "live_url": "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@JERUBAAL_TV.m3u8",
-  "thumbnail": "https://od.lk/s/NzZfMTIyMTk4MDAwXw/jerubaal.jpg",
-  "categorie": "GENERALISTE"
-  },
-  "19":{
-  "id": "19",
-  "name": "GOLGOTHA TV",
-  "number":"20",
-  "description": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile   à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables",
-  "live_url": "https://stream.berosat.live:19360/golgotha-tv/golgotha-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jpg",
-  "categorie": "GENERALISTE"
-  },
-  "20":{
-  "id": "20",
-  "name": "EVI TV",
-  "number":"21",
-  "description": "Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com",
-  "live_url": "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg",
-  "categorie": "GENERALISTE"
-  },
-   "21":{
-  "id": "21",
-  "name": "NSIA TV",
-  "number":"22",
-  "description": "NSIA TV, votre fenêtre sur le monde de l'assurance et de la banque, offre une programmation diversifiée qui allie information et divertissement. Plongez dans des émissions éducatives simplifiant pour vous les rouages complexes de l'assurance, de la Finance et des services bancaires. NSIA TV propose également une variété de programmes divertissants pour tous les membres de la famille. Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUE",
-  "live_url": "https://video1.getstreamhosting.com:1936/daqegamrnd/daqegamrnd/playlist.m3u8",
-  "thumbnail": "https://od.lk/s/NzZfMTIyMTk4MDAyXw/nsiatv.jpg",
-  "categorie": "GENERALISTE"
-  },
-  "22":{
-  "id": "22",
-  "name": "MOSAIQUE TV",
-  "number":"23",
-  "description": "Mosaïque télévision chaîne généraliste de proximité émettent à Kinshasa en République démocratique du Congo",
-  "live_url": "https://stream.berosat.live:19360/mosaique-tv/mosaique-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfOTA0MTQ1NDBf/mosaique.jpg",
-  "categorie": "GENERALISTE"
-  },
-  "23":{
-  "id": "23",
-  "name": "LUBEMBE TV",
-  "number":"24",
-  "description": "Nous sommes une chaîne d'information et divertissement Emettant depuis Sakania en Republique Democratique du Congo.",
-  "live_url": "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg",
-  "categorie": "GENERALISTE"
-  },
-  "24":{
-  "id": "24",
-  "name": "RTNC HD",
-  "number":"25",
-  "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
-  "live_url": "http://37.187.138.41:80/RTNC/index.m3u8",
-  "thumbnail": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
-  "categorie": "GENERALISTE"
-  },
-  "25":{
-  "id": "25",
-  "name": "SIFA TV",
-  "number":"26",
-  "description": "Sifa La Souriante Télévision, la Chaîne à caractère cinématographique et culturel en Republique Democratique du Congo.",
-  "live_url": "https://stream.berosat.live:19360/sifa-tv/sifa-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NzZfMTIyMTk3OTQ3Xw/sifatv.jpg",
-  "categorie": "GENERALISTE"
-  },
-  "26":{
-  "id": "26",
-  "name": "METEO TV",
-  "number":"27",
-  "description": "☀️🌧⚡️MTV RDC – Météo Télévision est la première chaîne congolaise entièrement dédiée à l’information météorologique et climatique en République démocratique du Congo. Notre mission est simple : 🌍 Informer • Prévenir • Protéger ☀️🌧⚡️MTV RDC ☀️🌧⚡️ Comprendre le ciel, anticiper demain",
-  "live_url": "https://stream.berosat.live:19360/mtv-index/mtv-index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfOTEwMDAyNTBf/meteotv.jpg",
-  "categorie": "GENERALISTE"
-  },
-  "27":{
-  "id": "27",
-  "name": "JOY TV",
-  "number":"28",
-  "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC.  JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...",
-  "live_url": "https://stream.berosat.live:19360/joy-tv/joy-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg",
-  "categorie": "GENERALISTE"
-  },
-  "28":{
-  "id": "28",
-  "name": "RTNC 1 HD",
-  "number":"29",
-  "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de Office zaïrois de radiodiffusion et de télévision (OZRT) à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
-  "live_url": "http://69.64.57.208/rtnc/playlist.m3u8",
-  "thumbnail": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
-  "categorie": "GENERALISTE"
-  },
+  "id":"18",
+  "name":"KMK TV",
+  "number":"01",
+  "description":"KMK TV (Kreativ Média Kongo) est une chaîne de télévision congolaise commerciale et généraliste, bâtie sur les piliers de la créativité, de l’innovation et du professionnalisme. Notre mission est claire : informer, divertir et inspirer le public congolais ainsi que le monde entier à travers des contenus riches, dynamiques et porteurs de valeurs. Nous nous positionnons comme une plateforme audiovisuelle moderne et stratégique, ouverte sur le monde et connectée aux réalités du public d’aujourd’hui. Grâce à une programmation variée – actualités, magazines, divertissements, culture, éducation, économie, talk-shows, et émissions de société – KMK TV se distingue comme un carrefour d’idées, d’opportunités et d’expression pour tous. Pour les annonceurs, institutions et marques, KMK TV offre une visibilité nationale et internationale de haut niveau, grâce à une diffusion de qualité et à une audience diversifiée et engagée. Slogan : Vous servir, c’est notre devoir. 🌐 Contact : kmktvcommerciale@gmail.com 📢 KMK TV – Là où la créativité rencontre l’excellence pour servir le Congo et le monde.",
+  "live_url":"https://stream.berosat.live/hls/kmk-index/kmk-index.m3u8",
+  "thumbnail":"https://od.lk/s/NzZfMTIyMTk4MDY4Xw/kmk.jpg",
+  "categorie":"GENERALISTE"
+  }
+}
+
+
+
+
+
+
+  
+ 
+
+ 
   "29":{
   "id": "29",
   "name": "RT AFRIKA TELEMA",
@@ -282,33 +191,9 @@
   "thumbnail": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg",
   "categorie": "GENERALISTE"
   },
-  "31":{
-  "id": "31",
-  "name": "HORIZON 2000 HD TV",
-  "number":"32",
-  "description": "Horizon 2000 HD Television est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
-  "live_url": "https://stream.berosat.live:19360/tv-horizon-2000hd-index/tv-horizon-2000hd-index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODE5Mzg0MTVf/horizon2000TV.jpg",
-  "categorie": "SPORTS"
-  }, 
-  "32":{
-  "id": "32",
-  "name": "LA BORNE TV",
-  "number":"33",
-  "description": "La Borne Mpasa, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation...",
-  "live_url": "https://stream.berosat.live:19360/laborne-tv/laborne-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfOTExNzQ1NzRf/bornetv.jpg",
-  "categorie": "GENERALISTE"
-  },
-  "33":{
-  "id": "33",
-  "name": "MS TV",
-  "number":"34",
-  "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Brazzaville, en République du Cong.",
-  "live_url": "http://iptv.berosat.live/hls/MSTV/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfOTE5ODkzODBf/mstv.jpg",
-  "categorie": "GENERALISTE"
-  },
+  
+
+  
   "34":{
   "id": "34",
   "name": "GUILD TV",
