@@ -8,7 +8,9 @@
   "live_url":"https://stream.berosat.live/hls/rlpro-tv/rlpro-tv.m3u8",
   "thumbnail":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
   "categorie":"GENERALISTE"
-  },
+  }
+}
+
   "1":{
   "id":"2",
   "name":"LUKALA TV",
