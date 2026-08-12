@@ -8,27 +8,31 @@
   "live_url": "https://stream.berosat.live/hls/rlpro-tv/rlpro-tv.m3u8",
   "thumbnail":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
   "categorie":"GENERALISTE"
-  }
-}
-
+  },
   "1":{
   "id":"2",
   "name":"LUKALA TV",
-  "number":"11",
-  "description":"Lukala télévision est une chaîne généraliste avec un programme riche telque Séries, Films, Télé-réalité, Humour, Jeux, Musique, Sport, Actualites, religion et autres",
-  "live_url":"http://ip-pro.berosat.live/hls/live/LUKALA-TV/index.m3u8",
+  "number":"10",
+  "description": "Lukala télévision est une chaîne généraliste avec un programme riche telque Séries, Films, Télé-réalité, Humour, Jeux, Musique, Sport, Actualites, religion et autres",
+  "live_url": "http://ip-pro.berosat.live/hls/live/LUKALA-TV/index.m3u8",
   "thumbnail":"https://od.lk/thumb/M18zMzA5NDg3ODVf",
   "categorie":"GENERALISTE"
   },
   "2":{
   "id":"3",
   "name":"BARAKA TV",
-  "number":"12",
-  "description":"Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs. Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111",
-  "live_url":"https://stream.berosat.live/hls/baraka-hd/baraka-hd.m3u8",
+  "number":"10",
+  "description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs. Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111",
+  "live_url": "https://stream.berosat.live/hls/baraka-hd/baraka-hd.m3u8",
   "thumbnail":"https://od.lk/s/NzZfMTIyMTk4MDYzXw/barakatv.jpg",
   "categorie":"GENERALISTE"
-  },
+  }
+}
+
+
+
+  
+  
   "3":{
   "id":"4",
   "name":"FRYCOMS TV",
