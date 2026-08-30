@@ -53,10 +53,26 @@
   "live_url": "https://stream.berosat.live/hls/moba-vision/moba-vision.m3u8",
   "thumbnail":"https://od.lk/thumb/M18zMzA5NDg0MjVf",
   "categorie":"GENERALISTE"
+  },
+  "6":{
+  "id":"7",
+  "name":"LAPANA TV",
+  "number":"13",
+  "description": "Lapana tv, est une chaîne généraliste et nous émettons depuis la ville de Kinshasa en République démocratique du Congo . Nous sommes un média centré sur les actualités politiques et culturelles. Nous organisons des reportages dans le seul but d informer, divertir et former la masse. Vos suggestions et remarques au numéro +243893616911",
+  "live_url": "https://stream.berosat.live/hls/lapana-tv/lapana-tv.m3u8",
+  "thumbnail":"https://od.lk/s/NDNfNDcyODEzMjNf/Lapana.jpg",
+  "categorie":"GENERALISTE"
+  },
+  "7":{
+  "id":"8",
+  "name":"INFO+ HD",
+  "number":"13",
+  "description": "infos Plus Magazine télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques",
+  "live_url": "http://ip-pro.berosat.live/hls/live/INFOS-PLUS/index.m3u8",
+  "thumbnail":"https://od.lk/thumb/NDZfOTU1MDk4MzRf",
+  "categorie":"GENERALISTE"
   }
 }
-
-
 
 
 
