@@ -71,6 +71,51 @@
   "live_url": "http://ip-pro.berosat.live/hls/live/INFOS-PLUS/index.m3u8",
   "thumbnail":"https://od.lk/thumb/NDZfOTU1MDk4MzRf",
   "categorie":"GENERALISTE"
+  },
+  "8":{
+  "id":"9",
+  "name":"ANTENNE A",
+  "number":"13",
+  "description": "Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo",
+  "live_url": "https://stream.berosat.live/hls/antenne-a-stream/antenne-a-stream.m3u8",
+  "thumbnail":"https://od.lk/thumb/NzNfMTM1MDQyMDM5Xw",
+  "categorie":"GENERALISTE"
+  },
+  "9":{
+  "id":"10",
+  "name":"ANTENNE A",
+  "number":"13",
+  "description": "champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.",
+  "live_url": "https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8",
+  "thumbnail":"https://od.lk/thumb/NzNfMTM1MDQyMDQyXw",
+  "categorie":"GENERALISTE"
+  },
+  "10":{
+  "id":"11",
+  "name":"ANTENNE A",
+  "number":"13",
+  "description": "champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.",
+  "live_url": "https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8",
+  "thumbnail":"https://od.lk/thumb/NzNfMTM1MDQyMDQyXw",
+  "categorie":"GENERALISTE"
+  },
+  "11":{
+  "id":"12",
+  "name":"NGUYA TV",
+  "number":"13",
+  "description": "Nguya Aigle est une chaine de Television généralaliste qui émet à partir de Kinshasa, en République démocratique du Congo.",
+  "live_url": "https://stream.berosat.live/hls/nguya-aigle/nguya-aigle.m3u8",
+  "thumbnail":"https://od.lk/thumb/M18zMzM0NTU0MDJfeE5Icks",
+  "categorie":"GENERALISTE"
+  },
+  "12":{
+  "id":"13",
+  "name":"ONMCI TV",
+  "number":"13",
+  "description": "ONMCI TV est la chaîne officielle de l’Ordre National des Médecins de Côte d’Ivoire (ONMCI), entièrement dédiée à la santé et au bien-être des populations. Notre mission est d’informer, sensibiliser et éduquer sur les enjeux de santé publique, les bonnes pratiques médicales, les innovations du secteur, ainsi que les actions de l’Ordre et des professionnels de santé. À travers des émissions spécialisées, des interviews, des reportages terrain, des conseils pratiques et des débats, ONMCI TV devient une plateforme d’échange entre les médecins, les institutions, et les citoyens. Accessible à tous, ONMCI TV est un pont entre le monde médical et le grand public, avec un seul objectif : contribuer à une société mieux informée, en meilleure santé",
+  "live_url": "http://ip-pro.berosat.live/hls/live/ONMCI-TV/index.m3u8",
+  "thumbnail":"https://od.lk/thumb/M18zMzQ3MjgxOTVfY1JZTkU",
+  "categorie":"GENERALISTE"
   }
 }
 
