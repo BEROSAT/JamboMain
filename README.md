@@ -83,7 +83,7 @@
   },
   "9":{
   "id":"10",
-  "name":"ANTENNE A",
+  "name":"CHAMPION TV",
   "number":"13",
   "description": "champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.",
   "live_url": "https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8",
@@ -92,11 +92,11 @@
   },
   "10":{
   "id":"11",
-  "name":"ANTENNE A",
+  "name":"NTI TV",
   "number":"13",
-  "description": "champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.",
-  "live_url": "https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8",
-  "thumbnail":"https://od.lk/thumb/NzNfMTM1MDQyMDQyXw",
+  "description": "NTI TV est une chaîne privée émettant à Brazzaville",
+  "live_url": "https://stream.berosat.live/hls/nti-index/nti-index.m3u8",
+  "thumbnail":"https://od.lk/thumb/NDNfNDcxMDM2MjNf",
   "categorie":"GENERALISTE"
   },
   "11":{
