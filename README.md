@@ -86,7 +86,7 @@
   "name":"CHAMPION TV",
   "number":"18",
   "description": "champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.",
-  "live_url": "https://pro-iptv.berosat.live/hls/CHAMPION-TV.m3u8",
+  "live_url": "https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8",
   "thumbnail":"https://od.lk/thumb/NzNfMTM1MDQyMDQyXw",
   "categorie":"GENERALISTE"
   },
