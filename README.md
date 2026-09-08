@@ -11,11 +11,11 @@
   },
   "1":{
   "id":"2",
-  "name":"LUKALA TV",
+  "name":"BALAFON TV",
   "number":"10",
-  "description": "Lukala télévision est une chaîne généraliste avec un programme riche telque Séries, Films, Télé-réalité, Humour, Jeux, Musique, Sport, Actualites, religion et autres",
-  "live_url": "http://ip-pro.berosat.live/hls/live/LUKALA-TV/index.m3u8",
-  "thumbnail":"https://od.lk/thumb/M18zMzA5NDg3ODVf",
+  "description": "Balafon TV est une chaîne de télévision camerounaise qui propose une programmation riche, dynamique et proche des réalités du public. Elle met en avant l’actualité, la culture, le divertissement, la musique, les débats et les grands événements qui rythment la vie du Cameroun. À travers ses émissions et ses productions, Balafon TV donne la parole aux acteurs de la société, aux artistes, aux personnalités publiques et aux différents talents camerounais. La chaîne s’inscrit dans une vision moderne de la télévision, en développant des contenus accessibles, interactifs et adaptés aux nouvelles habitudes de consommation audiovisuelle. Balafon TV, c’est une télévision camerounaise proche de son public, qui informe, divertit, valorise la culture et met en lumière les talents et les réalités du Cameroun.",
+  "live_url": ""https://broadcasting-channels.com:9044/hls/test.m3u8",
+  "thumbnail":"https://od.lk/thumb/M18zMzU5MjAzOTFfbWdHcXc",
   "categorie":"GENERALISTE"
   },
   "2":{
