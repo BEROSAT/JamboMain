@@ -125,6 +125,15 @@
   "live_url": "https://stream.berosat.live/hls/pro-tv/pro-tv.m3u8",
   "thumbnail":"https://od.lk/thumb/NDNfNDcxMTY2NzFf",
   "categorie":"GENERALISTE"
+  },
+  "14":{
+  "id":"15",
+  "name":"AFRI TV",
+  "number":"23",
+  "description": "Pro FM television la Fréquence de pro par le Pro, Nous sommes une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+  "live_url": "https://stream.berosat.live/hls/afri-tv/afri-tv.m3u8",
+  "thumbnail":"https://od.lk/thumb/NzNfMTM1MDQyMDM2Xw",
+  "categorie":"GENERALISTE"
   }
 }
 
