@@ -134,6 +134,24 @@
   "live_url": "https://stream.berosat.live/hls/afri-tv/afri-tv.m3u8",
   "thumbnail":"https://od.lk/thumb/NzNfMTM1MDQyMDM2Xw",
   "categorie":"GENERALISTE"
+  },
+  "15":{
+  "id":"16",
+  "name":"BALADE MONDE TV",
+  "number":"24",
+  "description": "Balade Monde Télévision est la première chaine de découverte en République Democratique du Congo.",
+  "live_url": "https://stream.berosat.live/hls/live-tv/live-tv.m3u8",
+  "thumbnail":"https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp",
+  "categorie":"GENERALISTE"
+  },
+  "16":{
+  "id":"17",
+  "name":"TV LA CAPITALE",
+  "number":"24",
+  "description": "TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro",
+  "live_url": "https://stream.tvlacapitale.best/hls/tvlacapitale/index.m3u8",
+  "thumbnail":"https://od.lk/thumb/NzNfMTM1MDQyMDQwXw",
+  "categorie":"GENERALISTE"
   }
 }
 
