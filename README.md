@@ -32,7 +32,7 @@
   "name":"FRYCOMS TV",
   "number":"12",
   "description": "FryComs TV est une Television d’information générale qui émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu",
-  "live_url": "http://frycoms-tv.berosat.live/hls/live/FRYCOMS-TV/index.m3u8",
+  "live_url": "http://ip-pro.berosat.live/hls/live/FRYCOMS-TV/index.m3u8",
   "thumbnail":"https://od.lk/thumb/NzNfMTM1MDQyMDQ5Xw",
   "categorie":"GENERALISTE"
   },
@@ -147,10 +147,19 @@
   "16":{
   "id":"17",
   "name":"TV LA CAPITALE",
-  "number":"24",
+  "number":"25",
   "description": "TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro",
   "live_url": "https://stream.tvlacapitale.best/hls/tvlacapitale/index.m3u8",
   "thumbnail":"https://od.lk/thumb/NzNfMTM1MDQyMDQwXw",
+  "categorie":"GENERALISTE"
+  },
+  "17":{
+  "id":"18",
+  "name":"CENTRAL-VOICE TV",
+  "number":"26",
+  "description": "Central Voice Television is a broadcasting channel from Zambia",
+  "live_url": "http://ip-pro.berosat.live/hls/live/CENTRAL-VOICE/index.m3u8",
+  "thumbnail":"https://od.lk/thumb/NzNfMTM1MDQyMDQxXw",
   "categorie":"GENERALISTE"
   }
 }
