@@ -110,11 +110,11 @@
   },
   "12":{
   "id":"13",
-  "name":"ONMCI TV",
+  "name":"S-MEDIAS TV 3",
   "number":"21",
-  "description": "ONMCI TV est la chaîne officielle de l’Ordre National des Médecins de Côte d’Ivoire (ONMCI), entièrement dédiée à la santé et au bien-être des populations. Notre mission est d’informer, sensibiliser et éduquer sur les enjeux de santé publique, les bonnes pratiques médicales, les innovations du secteur, ainsi que les actions de l’Ordre et des professionnels de santé. À travers des émissions spécialisées, des interviews, des reportages terrain, des conseils pratiques et des débats, ONMCI TV devient une plateforme d’échange entre les médecins, les institutions, et les citoyens. Accessible à tous, ONMCI TV est un pont entre le monde médical et le grand public, avec un seul objectif : contribuer à une société mieux informée, en meilleure santé",
-  "live_url": "http://ip-pro.berosat.live/hls/live/ONMCI-TV/index.m3u8",
-  "thumbnail":"https://od.lk/thumb/M18zMzQ3MjgxOTVfY1JZTkU",
+  "description": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo",
+  "live_url": "https://stream.berosat.live/hls/s-media-stream/s-media-stream.m3u8",
+  "thumbnail":"https://od.lk/thumb/NzNfMTM1MDQyMDU1Xw",
   "categorie":"GENERALISTE"
   },
   "13":{
