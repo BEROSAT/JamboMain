@@ -140,7 +140,7 @@
   "name":"BALADE MONDE TV",
   "number":"24",
   "description": "Balade Monde Télévision est la première chaine de découverte en République Democratique du Congo.",
-  "live_url": "https://stream.berosat.live/hls/baraka-hd/baraka-hd.m3u8",
+  "live_url": "https://stream.berosat.live/hls/live-tv/live-tv.m3u8",
   "thumbnail":"https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp",
   "categorie":"GENERALISTE"
   },
